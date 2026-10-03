@@ -1,0 +1,3502 @@
+[
+ {
+  "chapter": 1,
+  "front": "Which phase of the total testing process contains most laboratory errors?",
+  "back": "The preanalytical phase, covering test selection, patient preparation, identification, collection, labelling, transport, and processing.",
+  "domain": "clinical_chemistry",
+  "id": 1
+ },
+ {
+  "chapter": 1,
+  "front": "When must a specimen tube be labelled?",
+  "back": "At the bedside, in the presence of the patient, after the draw. Pre-labelled tubes risk being filled for the wrong person.",
+  "domain": "clinical_chemistry",
+  "id": 2
+ },
+ {
+  "chapter": 1,
+  "front": "What is the recommended order of draw for common tubes?",
+  "back": "Blood culture, light blue citrate, serum tubes, heparin, EDTA, then grey fluoride oxalate, to prevent additive carry-over.",
+  "domain": "clinical_chemistry",
+  "id": 3
+ },
+ {
+  "chapter": 1,
+  "front": "What pattern suggests potassium EDTA contamination of a chemistry tube?",
+  "back": "Markedly high potassium with very low calcium, low magnesium, and low alkaline phosphatase activity, often with no ECG changes.",
+  "domain": "clinical_chemistry",
+  "id": 4
+ },
+ {
+  "chapter": 1,
+  "front": "Why is serum potassium higher than plasma potassium?",
+  "back": "Platelets and white cells release potassium during clotting. The gap widens with high platelet or white cell counts.",
+  "domain": "clinical_chemistry",
+  "id": 5
+ },
+ {
+  "chapter": 1,
+  "front": "Why must whole blood not be chilled before centrifugation for potassium?",
+  "back": "Cold inhibits the sodium-potassium ATPase, so potassium leaks out of red cells and the result rises falsely.",
+  "domain": "clinical_chemistry",
+  "id": 6
+ },
+ {
+  "chapter": 1,
+  "front": "How fast does glucose fall in unseparated blood at room temperature?",
+  "back": "About 5 to 7 percent per hour from glycolysis. Use a fluoride tube or separate the plasma within two hours.",
+  "domain": "clinical_chemistry",
+  "id": 7
+ },
+ {
+  "chapter": 1,
+  "front": "Which analytes need ice and rapid analysis because they are unstable?",
+  "back": "Lactate, ammonia, ACTH, and parathyroid hormone. Ammonia and lactate are analyzed within about 15 to 30 minutes.",
+  "domain": "clinical_chemistry",
+  "id": 8
+ },
+ {
+  "chapter": 1,
+  "front": "What are the HIL indices?",
+  "back": "Hemolysis, icterus, and lipemia indices, measured photometrically on each specimen to flag interference with specific assays.",
+  "domain": "clinical_chemistry",
+  "id": 9
+ },
+ {
+  "chapter": 1,
+  "front": "Which analytes rise most with in vitro hemolysis?",
+  "back": "Potassium, lactate dehydrogenase, AST, magnesium, and phosphate, because red cells contain much higher concentrations than plasma.",
+  "domain": "clinical_chemistry",
+  "id": 10
+ },
+ {
+  "chapter": 1,
+  "front": "What causes pseudohyponatremia with indirect ion-selective electrodes?",
+  "back": "Very high lipid or protein reduces the plasma water fraction (electrolyte exclusion effect), so diluted sodium reads falsely low.",
+  "domain": "clinical_chemistry",
+  "id": 11
+ },
+ {
+  "chapter": 1,
+  "front": "How is a 24-hour urine collection started correctly?",
+  "back": "Discard the first void, start the timer, collect every later void for 24 hours, including the first void at the end.",
+  "domain": "clinical_chemistry",
+  "id": 12
+ },
+ {
+  "chapter": 1,
+  "front": "Which blood gas handling error lowers PCO2 and raises PO2?",
+  "back": "Air bubbles in the syringe, which allow equilibration with room air.",
+  "domain": "clinical_chemistry",
+  "id": 13
+ },
+ {
+  "chapter": 1,
+  "front": "What does a reference interval represent?",
+  "back": "The central 95 percent of values from a healthy reference population, so about 1 in 20 healthy results falls outside by chance.",
+  "domain": "clinical_chemistry",
+  "id": 14
+ },
+ {
+  "chapter": 1,
+  "front": "How is a reference interval verified in a laboratory?",
+  "back": "Test 20 healthy individuals. The interval is accepted if no more than 2 results fall outside it.",
+  "domain": "clinical_chemistry",
+  "id": 15
+ },
+ {
+  "chapter": 1,
+  "front": "What should accompany every critical value notification?",
+  "back": "Read-back of patient identifiers and result, with documentation of the time, the person notified, and the person who called.",
+  "domain": "clinical_chemistry",
+  "id": 16
+ },
+ {
+  "chapter": 2,
+  "front": "State the Beer-Lambert law.",
+  "back": "Absorbance equals molar absorptivity times path length times concentration, so absorbance is proportional to concentration.",
+  "domain": "clinical_chemistry",
+  "id": 17
+ },
+ {
+  "chapter": 2,
+  "front": "What is absorbance when 10 percent of light is transmitted?",
+  "back": "1.0, since absorbance is the negative logarithm of transmittance.",
+  "domain": "clinical_chemistry",
+  "id": 18
+ },
+ {
+  "chapter": 2,
+  "front": "What does a kinetic enzyme method require of the substrate?",
+  "back": "Substrate in excess so the rate depends only on enzyme concentration (zero-order kinetics). Substrate depletion underestimates activity.",
+  "domain": "clinical_chemistry",
+  "id": 19
+ },
+ {
+  "chapter": 2,
+  "front": "What is the Nernst equation used for in ISE measurement?",
+  "back": "It relates membrane potential to the logarithm of ion activity, about 59 to 61 millivolts per tenfold change for a monovalent ion.",
+  "domain": "clinical_chemistry",
+  "id": 20
+ },
+ {
+  "chapter": 2,
+  "front": "Direct versus indirect ISE: which is affected by lipemia?",
+  "back": "Indirect ISE, which dilutes the specimen and assumes a normal water fraction. Direct ISE measures water-phase activity and is unaffected.",
+  "domain": "clinical_chemistry",
+  "id": 21
+ },
+ {
+  "chapter": 2,
+  "front": "How is the osmolal gap calculated and what does it suggest?",
+  "back": "Measured osmolality minus calculated osmolality (2 x Na + glucose + urea). A gap above about 10 suggests ethanol or toxic alcohols.",
+  "domain": "clinical_chemistry",
+  "id": 22
+ },
+ {
+  "chapter": 2,
+  "front": "What is the high-dose hook effect?",
+  "back": "Very high analyte saturates both antibodies in a one-step sandwich assay, giving a falsely low result that dilution reveals.",
+  "domain": "clinical_chemistry",
+  "id": 23
+ },
+ {
+  "chapter": 2,
+  "front": "Which immunoassay format suits small single-epitope analytes?",
+  "back": "Competitive assays, in which labelled and patient antigen compete for limited antibody sites and signal falls as concentration rises.",
+  "domain": "clinical_chemistry",
+  "id": 24
+ },
+ {
+  "chapter": 2,
+  "front": "Name three immunoassay interferences.",
+  "back": "Heterophile antibodies, high-dose biotin in streptavidin-biotin assays, and macro-complexes such as macroprolactin.",
+  "domain": "clinical_chemistry",
+  "id": 25
+ },
+ {
+  "chapter": 2,
+  "front": "Why must serum, not plasma, be used for protein electrophoresis?",
+  "back": "Fibrinogen in plasma forms a band in the beta-gamma region that can mimic a monoclonal protein.",
+  "domain": "clinical_chemistry",
+  "id": 26
+ },
+ {
+  "chapter": 2,
+  "front": "Why does tandem mass spectrometry use isotopically labelled internal standards?",
+  "back": "They correct for extraction losses and ion suppression from matrix effects.",
+  "domain": "clinical_chemistry",
+  "id": 27
+ },
+ {
+  "chapter": 2,
+  "front": "How are positive immunoassay urine drug screens treated?",
+  "back": "As presumptive. Confirmation by GC-MS or LC-MS/MS is needed before a legal or clinical decision.",
+  "domain": "clinical_chemistry",
+  "id": 28
+ },
+ {
+  "chapter": 2,
+  "front": "Which Westgard rules detect random error?",
+  "back": "1-3s and R-4s. The 2-2s, 4-1s, and 10-x rules detect systematic error.",
+  "domain": "clinical_chemistry",
+  "id": 29
+ },
+ {
+  "chapter": 2,
+  "front": "What is the coefficient of variation?",
+  "back": "The standard deviation divided by the mean, multiplied by 100, expressed as a percentage.",
+  "domain": "clinical_chemistry",
+  "id": 30
+ },
+ {
+  "chapter": 2,
+  "front": "How is the sigma metric calculated?",
+  "back": "Sigma equals allowable total error percent minus bias percent, divided by CV percent. A value of 6 or more is world-class.",
+  "domain": "clinical_chemistry",
+  "id": 31
+ },
+ {
+  "chapter": 2,
+  "front": "Why is a high correlation coefficient not proof that two methods agree?",
+  "back": "Two methods can correlate perfectly while one reads consistently higher. Slope and intercept show constant or proportional bias.",
+  "domain": "clinical_chemistry",
+  "id": 32
+ },
+ {
+  "chapter": 3,
+  "front": "What are the Canadian diagnostic thresholds for diabetes?",
+  "back": "Fasting glucose 7.0 mmol/L or higher, 2-hour OGTT 11.1 or higher, A1c 6.5 percent or higher, or random glucose 11.1 or higher with symptoms.",
+  "domain": "clinical_chemistry",
+  "id": 33
+ },
+ {
+  "chapter": 3,
+  "front": "What is the Canadian range for impaired fasting glucose?",
+  "back": "A fasting plasma glucose of 6.1 to 6.9 mmol/L.",
+  "domain": "clinical_chemistry",
+  "id": 34
+ },
+ {
+  "chapter": 3,
+  "front": "What does Whipple's triad confirm?",
+  "back": "Clinically significant hypoglycemia: compatible symptoms, a measured low glucose, and relief when glucose is raised.",
+  "domain": "clinical_chemistry",
+  "id": 35
+ },
+ {
+  "chapter": 3,
+  "front": "How does exogenous insulin differ from insulinoma on laboratory testing?",
+  "back": "Exogenous insulin gives high insulin with suppressed C-peptide. An insulinoma gives high insulin and high C-peptide.",
+  "domain": "clinical_chemistry",
+  "id": 36
+ },
+ {
+  "chapter": 3,
+  "front": "Which ketone body do urine nitroprusside tests miss?",
+  "back": "Beta-hydroxybutyrate, so direct blood beta-hydroxybutyrate is preferred in diabetic ketoacidosis.",
+  "domain": "clinical_chemistry",
+  "id": 37
+ },
+ {
+  "chapter": 3,
+  "front": "Which conditions falsely lower A1c?",
+  "back": "Hemolytic anemia, recent hemorrhage, and recent transfusion, because they shorten average red cell age.",
+  "domain": "clinical_chemistry",
+  "id": 38
+ },
+ {
+  "chapter": 3,
+  "front": "Write the Friedewald equation in SI units.",
+  "back": "LDL = total cholesterol minus HDL minus triglyceride divided by 2.2, all in mmol/L.",
+  "domain": "clinical_chemistry",
+  "id": 39
+ },
+ {
+  "chapter": 3,
+  "front": "When is the Friedewald equation invalid?",
+  "back": "When triglyceride exceeds 4.5 mmol/L, in type III hyperlipoproteinemia, and when chylomicrons are present.",
+  "domain": "clinical_chemistry",
+  "id": 40
+ },
+ {
+  "chapter": 3,
+  "front": "Why do bromocresol green and purple albumin methods differ?",
+  "back": "Green can overestimate at low albumin by reacting with globulins. Purple is more specific but may underestimate in renal failure.",
+  "domain": "clinical_chemistry",
+  "id": 41
+ },
+ {
+  "chapter": 3,
+  "front": "How does low albumin change total calcium?",
+  "back": "Total calcium falls about 0.02 mmol/L per g/L of albumin below 40, while ionized calcium stays normal.",
+  "domain": "clinical_chemistry",
+  "id": 42
+ },
+ {
+  "chapter": 3,
+  "front": "Which enzyme pattern suggests alcoholic hepatitis?",
+  "back": "AST to ALT ratio above 2, partly from pyridoxal phosphate depletion and mitochondrial injury.",
+  "domain": "clinical_chemistry",
+  "id": 43
+ },
+ {
+  "chapter": 3,
+  "front": "A raised ALP with normal GGT suggests what source?",
+  "back": "Bone, since GGT rises in hepatobiliary disease but not in bone disease.",
+  "domain": "clinical_chemistry",
+  "id": 44
+ },
+ {
+  "chapter": 3,
+  "front": "Why is lipase preferred over amylase for acute pancreatitis?",
+  "back": "Lipase is more pancreas-specific and stays elevated longer. A result above 3 times the upper limit supports the diagnosis.",
+  "domain": "clinical_chemistry",
+  "id": 45
+ },
+ {
+  "chapter": 3,
+  "front": "What is the criterion for myocardial infarction using troponin?",
+  "back": "A rise or fall of cardiac troponin with at least one value above the 99th percentile, plus clinical evidence of ischemia.",
+  "domain": "clinical_chemistry",
+  "id": 46
+ },
+ {
+  "chapter": 3,
+  "front": "Why is NT-proBNP preferred in patients taking sacubitril?",
+  "back": "Neprilysin inhibition raises BNP but does not affect NT-proBNP.",
+  "domain": "clinical_chemistry",
+  "id": 47
+ },
+ {
+  "chapter": 3,
+  "front": "How does myoglobinuria appear on urine testing?",
+  "back": "Positive dipstick for blood with no red cells on microscopy, with very high creatine kinase.",
+  "domain": "clinical_chemistry",
+  "id": 48
+ },
+ {
+  "chapter": 4,
+  "front": "How is sodium corrected for hyperglycemia?",
+  "back": "Sodium falls about 2.4 mmol/L for each 5.6 mmol/L rise in glucose above normal. Add that amount back to estimate corrected sodium.",
+  "domain": "clinical_chemistry",
+  "id": 49
+ },
+ {
+  "chapter": 4,
+  "front": "What urine and serum findings define SIADH?",
+  "back": "Low serum osmolality with inappropriately concentrated urine, urine sodium above 30 mmol/L, and normal thyroid, adrenal, and renal function.",
+  "domain": "clinical_chemistry",
+  "id": 50
+ },
+ {
+  "chapter": 4,
+  "front": "How do central and nephrogenic diabetes insipidus differ on desmopressin testing?",
+  "back": "Urine concentrates after desmopressin in central disease but not in nephrogenic disease.",
+  "domain": "clinical_chemistry",
+  "id": 51
+ },
+ {
+  "chapter": 4,
+  "front": "What PTH pattern indicates primary hyperparathyroidism?",
+  "back": "High or inappropriately normal PTH with high calcium. A suppressed PTH points to malignancy or vitamin D excess.",
+  "domain": "clinical_chemistry",
+  "id": 52
+ },
+ {
+  "chapter": 4,
+  "front": "State the Henderson-Hasselbalch relationship for blood.",
+  "back": "pH = 6.1 + log (bicarbonate / (0.03 x PCO2 in mmHg)).",
+  "domain": "clinical_chemistry",
+  "id": 53
+ },
+ {
+  "chapter": 4,
+  "front": "What is Winter's formula?",
+  "back": "Expected PCO2 in metabolic acidosis = 1.5 x bicarbonate + 8, plus or minus 2.",
+  "domain": "clinical_chemistry",
+  "id": 54
+ },
+ {
+  "chapter": 4,
+  "front": "How is the anion gap calculated and what is typical?",
+  "back": "Sodium minus chloride minus bicarbonate, usually about 8 to 12 mmol/L without potassium.",
+  "domain": "clinical_chemistry",
+  "id": 55
+ },
+ {
+  "chapter": 4,
+  "front": "Name causes of a high anion gap metabolic acidosis.",
+  "back": "Ketoacidosis, lactic acidosis, uremia, and toxic ingestions such as methanol, ethylene glycol, and salicylate.",
+  "domain": "clinical_chemistry",
+  "id": 56
+ },
+ {
+  "chapter": 4,
+  "front": "Why does pulse oximetry miss carbon monoxide poisoning?",
+  "back": "It cannot distinguish carboxyhemoglobin from oxyhemoglobin. Co-oximetry measures carboxyhemoglobin directly.",
+  "domain": "clinical_chemistry",
+  "id": 57
+ },
+ {
+  "chapter": 4,
+  "front": "What is the first-line thyroid test and why?",
+  "back": "TSH, because of the log-linear relation to free T4: a small change in free hormone causes a large TSH change.",
+  "domain": "clinical_chemistry",
+  "id": 58
+ },
+ {
+  "chapter": 4,
+  "front": "What does a low TSH with high free T4 and positive TSH receptor antibodies indicate?",
+  "back": "Graves disease, a primary hyperthyroidism.",
+  "domain": "clinical_chemistry",
+  "id": 59
+ },
+ {
+  "chapter": 4,
+  "front": "How does a 1 mg dexamethasone suppression test screen for Cushing syndrome?",
+  "back": "A next-morning cortisol above about 50 nmol/L fails to suppress and is abnormal.",
+  "domain": "clinical_chemistry",
+  "id": 60
+ },
+ {
+  "chapter": 4,
+  "front": "How is the Rumack-Matthew nomogram used?",
+  "back": "It plots acetaminophen level against time after a single acute ingestion, valid from 4 hours, with a treatment line near 150 mg/L at 4 hours.",
+  "domain": "clinical_chemistry",
+  "id": 61
+ },
+ {
+  "chapter": 4,
+  "front": "What blood sampling rule applies to lithium monitoring?",
+  "back": "Collect a 12-hour trough in a tube without lithium heparin. The usual therapeutic range is 0.6 to 1.2 mmol/L.",
+  "domain": "clinical_chemistry",
+  "id": 62
+ },
+ {
+  "chapter": 4,
+  "front": "What do iron studies show in iron deficiency versus inflammation?",
+  "back": "Deficiency gives low iron, low saturation, high TIBC, and low ferritin. Inflammation gives low iron and normal or high ferritin.",
+  "domain": "clinical_chemistry",
+  "id": 63
+ },
+ {
+  "chapter": 5,
+  "front": "Which anticoagulant is standard for the CBC, and how does it work?",
+  "back": "EDTA, which chelates calcium to prevent clotting while preserving cell size and shape.",
+  "domain": "hematology",
+  "id": 64
+ },
+ {
+  "chapter": 5,
+  "front": "What does an underfilled EDTA tube do?",
+  "back": "The excess EDTA shrinks red cells, lowering hematocrit and MCV and distorting morphology.",
+  "domain": "hematology",
+  "id": 65
+ },
+ {
+  "chapter": 5,
+  "front": "How does the Coulter principle count and size cells?",
+  "back": "Cells passing through an aperture raise impedance. Pulse number gives the count and pulse height gives the volume.",
+  "domain": "hematology",
+  "id": 66
+ },
+ {
+  "chapter": 5,
+  "front": "Which cells can be miscounted as platelets on impedance?",
+  "back": "Red cell fragments and microcytes can falsely raise the count, and white cell fragments too. Giant platelets are missed.",
+  "domain": "hematology",
+  "id": 67
+ },
+ {
+  "chapter": 5,
+  "front": "Why does a nucleated red cell falsely raise the white count?",
+  "back": "It resists the lysing reagent and is counted as a leukocyte.",
+  "domain": "hematology",
+  "id": 68
+ },
+ {
+  "chapter": 5,
+  "front": "Write the corrected white count formula.",
+  "back": "Measured count x 100, divided by (100 + nucleated red cells per 100 white cells).",
+  "domain": "hematology",
+  "id": 69
+ },
+ {
+  "chapter": 5,
+  "front": "What is the usual cyanide-free hemoglobin method?",
+  "back": "Sodium lauryl sulfate hemoglobin, read near 535 to 555 nm and calibrated against cyanmethemoglobin.",
+  "domain": "hematology",
+  "id": 70
+ },
+ {
+  "chapter": 5,
+  "front": "How is MCV calculated?",
+  "back": "Hematocrit (fraction) divided by red cell count (x10^12/L), multiplied by 1000, giving femtolitres.",
+  "domain": "hematology",
+  "id": 71
+ },
+ {
+  "chapter": 5,
+  "front": "How are MCH and MCHC calculated?",
+  "back": "MCH = hemoglobin (g/L) divided by red cell count. MCHC = hemoglobin (g/L) divided by hematocrit (fraction).",
+  "domain": "hematology",
+  "id": 72
+ },
+ {
+  "chapter": 5,
+  "front": "What does an MCHC above about 360 g/L usually signal?",
+  "back": "A specimen artifact such as cold agglutinin, lipemia, or hemolysis, rarely true spherocytosis.",
+  "domain": "hematology",
+  "id": 73
+ },
+ {
+  "chapter": 5,
+  "front": "How do you handle a cold agglutinin on the CBC?",
+  "back": "Warm the specimen to 37 degrees Celsius, mix, and reanalyze.",
+  "domain": "hematology",
+  "id": 74
+ },
+ {
+  "chapter": 5,
+  "front": "How is EDTA platelet clumping resolved?",
+  "back": "Recollect into sodium citrate and multiply the platelet count by 1.1 to correct for dilution.",
+  "domain": "hematology",
+  "id": 75
+ },
+ {
+  "chapter": 5,
+  "front": "How is the reticulocyte production index calculated?",
+  "back": "Corrected reticulocyte percent (retic % x Hct / 0.45) divided by a maturation factor. Below 2 in anemia means an inadequate response.",
+  "domain": "hematology",
+  "id": 76
+ },
+ {
+  "chapter": 5,
+  "front": "What conditions are required for a Westergren ESR?",
+  "back": "Test within 4 hours at room temperature in a truly vertical tube. Tilt, heat, and bubbles raise the result.",
+  "domain": "hematology",
+  "id": 77
+ },
+ {
+  "chapter": 5,
+  "front": "What does Bull's algorithm monitor?",
+  "back": "A moving average of patient MCV in batches of 20, detecting calibration or sizing shifts that commercial controls can miss.",
+  "domain": "hematology",
+  "id": 78
+ },
+ {
+  "chapter": 6,
+  "front": "How is MCV calculated from the hematocrit and red cell count?",
+  "back": "MCV (fL) = hematocrit (L/L) x 1000 / RBC (x10^12/L). A hematocrit of 0.30 with RBC 3.5 gives an MCV of about 86 fL.",
+  "domain": "hematology",
+  "id": 79
+ },
+ {
+  "chapter": 6,
+  "front": "How is the corrected reticulocyte count calculated?",
+  "back": "Reticulocyte percentage x patient hematocrit / 0.45. A hematocrit of 0.25 with 8 percent reticulocytes gives about 4.4 percent.",
+  "domain": "hematology",
+  "id": 80
+ },
+ {
+  "chapter": 6,
+  "front": "What reticulocyte production index suggests an appropriate marrow response?",
+  "back": "An index above about 2 to 3 indicates an appropriate response, as in hemolysis or hemorrhage. A lower index with anemia indicates a production defect.",
+  "domain": "hematology",
+  "id": 81
+ },
+ {
+  "chapter": 6,
+  "front": "What does a falsely high MCHC with a falsely low RBC suggest on an analyzer?",
+  "back": "Cold agglutinin interference. Warm the specimen to 37 C, mix, and repeat, then report the warmed result with a comment.",
+  "domain": "hematology",
+  "id": 82
+ },
+ {
+  "chapter": 6,
+  "front": "Which iron findings separate iron deficiency from anemia of inflammation?",
+  "back": "Iron deficiency shows low ferritin, low saturation, and high TIBC. Inflammation shows normal or high ferritin with low iron and low TIBC because hepcidin traps iron in macrophages.",
+  "domain": "hematology",
+  "id": 83
+ },
+ {
+  "chapter": 6,
+  "front": "What is the Mentzer index and what value favours thalassemia trait?",
+  "back": "MCV divided by RBC count. A value below about 13 favours thalassemia trait and above 13 favours iron deficiency.",
+  "domain": "hematology",
+  "id": 84
+ },
+ {
+  "chapter": 6,
+  "front": "Which laboratory finding is characteristic of beta thalassemia trait?",
+  "back": "Elevated hemoglobin A2, usually above about 3.5 percent, with marked microcytosis and a normal to high red cell count.",
+  "domain": "hematology",
+  "id": 85
+ },
+ {
+  "chapter": 6,
+  "front": "Which two film findings are the hallmarks of megaloblastic anemia?",
+  "back": "Macro-ovalocytes and hypersegmented neutrophils (five or more lobes), with a high RDW.",
+  "domain": "hematology",
+  "id": 86
+ },
+ {
+  "chapter": 6,
+  "front": "Which test is raised only in vitamin B12 deficiency and not in folate deficiency?",
+  "back": "Methylmalonic acid. Homocysteine rises in both deficiencies.",
+  "domain": "hematology",
+  "id": 87
+ },
+ {
+  "chapter": 6,
+  "front": "Why is folic acid alone dangerous in vitamin B12 deficiency?",
+  "back": "It can correct the blood count while neurologic damage from B12 deficiency continues to progress.",
+  "domain": "hematology",
+  "id": 88
+ },
+ {
+  "chapter": 6,
+  "front": "Which laboratory results document hemolysis?",
+  "back": "Raised reticulocytes, indirect bilirubin, and LDH, with low or absent haptoglobin. The film may show spherocytes or fragments.",
+  "domain": "hematology",
+  "id": 89
+ },
+ {
+  "chapter": 6,
+  "front": "What does a DAT positive for IgG with spherocytes indicate?",
+  "back": "Warm autoimmune hemolytic anemia, with extravascular destruction of antibody-coated cells in the spleen.",
+  "domain": "hematology",
+  "id": 90
+ },
+ {
+  "chapter": 6,
+  "front": "What pattern suggests microangiopathic hemolytic anemia and what is the action?",
+  "back": "Schistocytes with thrombocytopenia and a negative DAT. Telephone the clinician promptly because TTP and DIC are emergencies.",
+  "domain": "hematology",
+  "id": 91
+ },
+ {
+  "chapter": 6,
+  "front": "Why can a G6PD assay be falsely normal?",
+  "back": "During or soon after hemolysis the old, enzyme-deficient cells are gone and young reticulocytes with high activity dominate. Repeat several weeks after recovery.",
+  "domain": "hematology",
+  "id": 92
+ },
+ {
+  "chapter": 6,
+  "front": "Which flow cytometry test confirms hereditary spherocytosis?",
+  "back": "Eosin-5-maleimide binding, which shows reduced fluorescence. The DAT is negative and the MCHC is often high.",
+  "domain": "hematology",
+  "id": 93
+ },
+ {
+  "chapter": 6,
+  "front": "What causes an aplastic crisis in a patient with chronic hemolysis?",
+  "back": "Parvovirus B19 infection of erythroid progenitors, giving a sudden hemoglobin fall with a very low reticulocyte count and giant pronormoblasts.",
+  "domain": "hematology",
+  "id": 94
+ },
+ {
+  "chapter": 7,
+  "front": "How is the white cell count corrected for nucleated red cells?",
+  "back": "Corrected WBC = measured WBC x 100 / (100 + nucleated red cells per 100 WBC). With 12.0 and 25 per 100, the result is 9.6 x10^9/L.",
+  "domain": "hematology",
+  "id": 95
+ },
+ {
+  "chapter": 7,
+  "front": "How does a leukemoid reaction differ from CML?",
+  "back": "A leukemoid reaction has toxic changes, no basophilia, a high leukocyte alkaline phosphatase score, and no BCR::ABL1 fusion.",
+  "domain": "hematology",
+  "id": 96
+ },
+ {
+  "chapter": 7,
+  "front": "What are toxic changes in neutrophils?",
+  "back": "Toxic granulation, Dohle bodies, and cytoplasmic vacuolation seen in severe infection and with G-CSF therapy.",
+  "domain": "hematology",
+  "id": 97
+ },
+ {
+  "chapter": 7,
+  "front": "What are the atypical lymphocytes of infectious mononucleosis?",
+  "back": "Reactive cytotoxic T cells with abundant basophilic cytoplasm that indents around neighbouring red cells. A negative early heterophile test does not exclude EBV.",
+  "domain": "hematology",
+  "id": 98
+ },
+ {
+  "chapter": 7,
+  "front": "How should Pelger-Huet neutrophils be counted?",
+  "back": "As segmented neutrophils, with a comment. Counting them as bands creates a false left shift.",
+  "domain": "hematology",
+  "id": 99
+ },
+ {
+  "chapter": 7,
+  "front": "Which finding is pathognomonic of myeloid lineage on a blood film?",
+  "back": "Auer rods, needle-shaped crystals of azurophilic granule material in blasts.",
+  "domain": "hematology",
+  "id": 100
+ },
+ {
+  "chapter": 7,
+  "front": "Which cytochemical stain separates AML from ALL?",
+  "back": "Myeloperoxidase. It is positive in myeloid blasts and negative in lymphoblasts, which are TdT positive.",
+  "domain": "hematology",
+  "id": 101
+ },
+ {
+  "chapter": 7,
+  "front": "What is the translocation and fusion in acute promyelocytic leukemia?",
+  "back": "t(15;17) producing PML::RARA, treated with all-trans retinoic acid and arsenic trioxide.",
+  "domain": "hematology",
+  "id": 102
+ },
+ {
+  "chapter": 7,
+  "front": "What is the correct response to suspected APL on a film?",
+  "back": "Telephone the clinician at once and request PT, aPTT, fibrinogen, and D-dimer, without waiting for genetics.",
+  "domain": "hematology",
+  "id": 103
+ },
+ {
+  "chapter": 7,
+  "front": "What defines CML genetically?",
+  "back": "The Philadelphia chromosome t(9;22) producing the BCR::ABL1 fusion, monitored by quantitative PCR on the international scale.",
+  "domain": "hematology",
+  "id": 104
+ },
+ {
+  "chapter": 7,
+  "front": "What is the immunophenotype of CLL?",
+  "back": "CD19, CD5, CD23, and CD200 positive, with weak CD20 and weak surface immunoglobulin, and smudge cells on the film.",
+  "domain": "hematology",
+  "id": 105
+ },
+ {
+  "chapter": 7,
+  "front": "What mutation is nearly universal in hairy cell leukemia?",
+  "back": "BRAF V600E, with CD11c, CD25, and CD103 expression and a dry marrow tap.",
+  "domain": "hematology",
+  "id": 106
+ },
+ {
+  "chapter": 7,
+  "front": "Why can a urine dipstick miss myeloma light chains?",
+  "back": "The protein pad reacts mainly with albumin, so Bence Jones protein needs urine protein electrophoresis or serum free light chains.",
+  "domain": "hematology",
+  "id": 107
+ },
+ {
+  "chapter": 7,
+  "front": "What does CRAB stand for in myeloma?",
+  "back": "Hypercalcemia, renal impairment, anemia, and bone lesions.",
+  "domain": "hematology",
+  "id": 108
+ },
+ {
+  "chapter": 7,
+  "front": "Which JAK2 mutation is found in most polycythemia vera?",
+  "back": "JAK2 V617F, with CALR and MPL mutations seen in many JAK2-negative myeloproliferative neoplasms.",
+  "domain": "hematology",
+  "id": 109
+ },
+ {
+  "chapter": 7,
+  "front": "How should a flow cytometry specimen be stored and delivered?",
+  "back": "In EDTA or heparin at room temperature, not on ice, delivered within 24 to 48 hours. Nonviable specimens are rejected and documented.",
+  "domain": "hematology",
+  "id": 110
+ },
+ {
+  "chapter": 8,
+  "front": "Which clinical bleeding pattern suggests a platelet or von Willebrand disorder?",
+  "back": "Mucocutaneous bleeding such as petechiae, epistaxis, gum bleeding, and heavy menstrual bleeding.",
+  "domain": "hematology",
+  "id": 111
+ },
+ {
+  "chapter": 8,
+  "front": "What does absent aggregation to all agonists except ristocetin indicate?",
+  "back": "Glanzmann thrombasthenia, a GPIIb/IIIa deficiency.",
+  "domain": "hematology",
+  "id": 112
+ },
+ {
+  "chapter": 8,
+  "front": "How does Bernard-Soulier syndrome appear in the laboratory?",
+  "back": "Giant platelets, thrombocytopenia, and absent ristocetin response that is not corrected by normal plasma, from GPIb deficiency.",
+  "domain": "hematology",
+  "id": 113
+ },
+ {
+  "chapter": 8,
+  "front": "How is the INR calculated?",
+  "back": "INR = (patient PT / mean normal PT) raised to the ISI. A PT of 24 s, normal 12 s, and ISI 1.2 gives 2.3.",
+  "domain": "hematology",
+  "id": 114
+ },
+ {
+  "chapter": 8,
+  "front": "Which pathways do the PT and aPTT assess?",
+  "back": "The PT assesses the extrinsic and common pathways. The aPTT assesses the intrinsic and common pathways.",
+  "domain": "hematology",
+  "id": 115
+ },
+ {
+  "chapter": 8,
+  "front": "What tube and fill rules apply to coagulation specimens?",
+  "back": "3.2 percent sodium citrate in a 1:9 ratio with blood, filled to at least 90 percent, and mixed gently.",
+  "domain": "hematology",
+  "id": 116
+ },
+ {
+  "chapter": 8,
+  "front": "How is the citrate volume adjusted when the hematocrit is above about 0.55?",
+  "back": "C = 0.00185 x blood volume (mL) x (100 - Hct percent). At 4.5 mL and Hct 65 percent, about 0.29 mL.",
+  "domain": "hematology",
+  "id": 117
+ },
+ {
+  "chapter": 8,
+  "front": "What does a mixing study that corrects indicate?",
+  "back": "A factor deficiency, because normal plasma supplies the missing factor. Failure to correct indicates an inhibitor.",
+  "domain": "hematology",
+  "id": 118
+ },
+ {
+  "chapter": 8,
+  "front": "How do lupus anticoagulants and factor VIII inhibitors differ on mixing?",
+  "back": "Lupus anticoagulants act immediately and are phospholipid dependent. Factor VIII autoantibodies are time dependent.",
+  "domain": "hematology",
+  "id": 119
+ },
+ {
+  "chapter": 8,
+  "front": "What are the three steps of lupus anticoagulant testing?",
+  "back": "Screen with two tests such as dRVVT and aPTT, mix to show no correction, then confirm with excess phospholipid. Repeat at 12 weeks.",
+  "domain": "hematology",
+  "id": 120
+ },
+ {
+  "chapter": 8,
+  "front": "What are the typical findings in type 1 von Willebrand disease?",
+  "back": "Proportionally reduced vWF antigen and activity with a mildly reduced factor VIII and mucocutaneous bleeding.",
+  "domain": "hematology",
+  "id": 121
+ },
+ {
+  "chapter": 8,
+  "front": "Which factor deficiencies prolong the aPTT without causing bleeding?",
+  "back": "Factor XII, prekallikrein, and high molecular weight kininogen.",
+  "domain": "hematology",
+  "id": 122
+ },
+ {
+  "chapter": 8,
+  "front": "Which clotting factors need vitamin K?",
+  "back": "Factors II, VII, IX, and X, plus proteins C and S. Factor VII has the shortest half-life, so the PT lengthens first.",
+  "domain": "hematology",
+  "id": 123
+ },
+ {
+  "chapter": 8,
+  "front": "How can liver disease be separated from DIC?",
+  "back": "Factor VIII is normal or high in liver disease because endothelium makes it, but low in DIC from consumption.",
+  "domain": "hematology",
+  "id": 124
+ },
+ {
+  "chapter": 8,
+  "front": "What is the classic laboratory pattern of DIC?",
+  "back": "Falling platelets, prolonged PT and aPTT, low fibrinogen, markedly elevated D-dimer, and sometimes schistocytes.",
+  "domain": "hematology",
+  "id": 125
+ },
+ {
+  "chapter": 8,
+  "front": "How is heparin monitored when the baseline aPTT is already prolonged?",
+  "back": "Use a chromogenic anti-factor Xa assay calibrated for heparin.",
+  "domain": "hematology",
+  "id": 126
+ },
+ {
+  "chapter": 9,
+  "front": "What is the bedside labelling rule for transfusion samples?",
+  "back": "Label at the bedside in the patient's presence with two identifiers, date, time, and collector identity. Reject unlabelled or mismatched samples.",
+  "domain": "transfusion_medicine",
+  "id": 127
+ },
+ {
+  "chapter": 9,
+  "front": "How soon must a compatibility sample be collected before transfusion?",
+  "back": "Within three days when the patient was transfused or pregnant in the previous three months.",
+  "domain": "transfusion_medicine",
+  "id": 128
+ },
+ {
+  "chapter": 9,
+  "front": "State Landsteiner's rule.",
+  "back": "People have naturally occurring antibodies to the ABO antigens they lack, so forward and reverse typing must agree.",
+  "domain": "transfusion_medicine",
+  "id": 129
+ },
+ {
+  "chapter": 9,
+  "front": "What are the forward and reverse grouping reactions of group O?",
+  "back": "The cells do not react with anti-A or anti-B. The serum reacts with both A1 and B reagent cells.",
+  "domain": "transfusion_medicine",
+  "id": 130
+ },
+ {
+  "chapter": 9,
+  "front": "What characterizes the Bombay phenotype?",
+  "back": "The cells lack H, A, and B. The serum has potent anti-H that agglutinates group O cells, and only Bombay blood is compatible.",
+  "domain": "transfusion_medicine",
+  "id": 131
+ },
+ {
+  "chapter": 9,
+  "front": "Why is a newborn not reverse grouped?",
+  "back": "Newborns have not yet made their own ABO antibodies, and any antibody present is passively acquired maternal IgG.",
+  "domain": "transfusion_medicine",
+  "id": 132
+ },
+ {
+  "chapter": 9,
+  "front": "What is the first step in any ABO discrepancy?",
+  "back": "Repeat on washed cells and confirm identity, because a mix-up is the most important cause. Issue group O red cells if transfusion is urgent.",
+  "domain": "transfusion_medicine",
+  "id": 133
+ },
+ {
+  "chapter": 9,
+  "front": "How is rouleaux resolved in grouping?",
+  "back": "Saline replacement. Remove the serum after centrifugation and replace it with saline, which disperses stacks but not true agglutination.",
+  "domain": "transfusion_medicine",
+  "id": 134
+ },
+ {
+  "chapter": 9,
+  "front": "What is acquired B phenotype?",
+  "back": "A group A patient with gram-negative infection or colon cancer whose A antigen is deacetylated and reacts as B, while the serum still contains anti-B.",
+  "domain": "transfusion_medicine",
+  "id": 135
+ },
+ {
+  "chapter": 9,
+  "front": "Why are weak reverse reactions seen in some patients?",
+  "back": "Elderly, hypogammaglobulinemic, and immunosuppressed patients may have weak antibodies. Incubate at room temperature or 4 C to enhance them.",
+  "domain": "transfusion_medicine",
+  "id": 136
+ },
+ {
+  "chapter": 9,
+  "front": "Why must every D typing have an Rh control?",
+  "back": "A positive control means the cells agglutinate regardless of anti-D, so the D result is invalid.",
+  "domain": "transfusion_medicine",
+  "id": 137
+ },
+ {
+  "chapter": 9,
+  "front": "How are weak D and partial D managed?",
+  "back": "RHD genotyping separates them. Weak D types 1, 2, and 3 can be managed as D positive and partial D types as D negative.",
+  "domain": "transfusion_medicine",
+  "id": 138
+ },
+ {
+  "chapter": 9,
+  "front": "How much fetal blood does one 300 microgram RhIG vial cover?",
+  "back": "About 15 mL of fetal red cells, equal to about 30 mL of fetal whole blood.",
+  "domain": "transfusion_medicine",
+  "id": 139
+ },
+ {
+  "chapter": 9,
+  "front": "How is the fetal bleed volume calculated from the Kleihauer-Betke result?",
+  "back": "Fetal cell fraction x 5000 mL maternal blood volume. A count of 0.8 percent gives 40 mL, which is 1.33 vials.",
+  "domain": "transfusion_medicine",
+  "id": 140
+ },
+ {
+  "chapter": 9,
+  "front": "Why use heterozygous cells in reagent quality control?",
+  "back": "They carry a single dose of antigen and give the weakest expected reaction, so a weakening reagent is detected first.",
+  "domain": "transfusion_medicine",
+  "id": 141
+ },
+ {
+  "chapter": 10,
+  "front": "What makes an antibody clinically significant?",
+  "back": "Reactivity at 37 C or in the antiglobulin phase, with the ability to cause hemolytic transfusion reactions or hemolytic disease of the fetus and newborn.",
+  "domain": "transfusion_medicine",
+  "id": 142
+ },
+ {
+  "chapter": 10,
+  "front": "Why are screening cells never pooled?",
+  "back": "Pooling dilutes antigen and lowers sensitivity, and the cells are chosen for homozygous expression because many antibodies show dosage.",
+  "domain": "transfusion_medicine",
+  "id": 143
+ },
+ {
+  "chapter": 10,
+  "front": "What is the autocontrol and what does a positive result suggest?",
+  "back": "Patient cells tested with patient serum. A positive result suggests autoantibody, a delayed transfusion reaction, or drug antibody.",
+  "domain": "transfusion_medicine",
+  "id": 144
+ },
+ {
+  "chapter": 10,
+  "front": "Why must every negative antiglobulin test be checked with IgG-coated cells?",
+  "back": "Failure of the check cells to agglutinate shows that the reagent was neutralized or not added, so the test is invalid and is repeated.",
+  "domain": "transfusion_medicine",
+  "id": 145
+ },
+ {
+  "chapter": 10,
+  "front": "What does polyspecific AHG detect, and what does C3d alone suggest?",
+  "back": "IgG and complement. C3d alone suggests cold agglutinin disease or some drug reactions, and IgG suggests warm autoimmune hemolytic anemia.",
+  "domain": "transfusion_medicine",
+  "id": 146
+ },
+ {
+  "chapter": 10,
+  "front": "What is the 95 percent confidence rule for antibody identification?",
+  "back": "At least three antigen-positive cells react and three antigen-negative cells do not react.",
+  "domain": "transfusion_medicine",
+  "id": 147
+ },
+ {
+  "chapter": 10,
+  "front": "Which antigens do enzymes destroy and which do they enhance?",
+  "back": "Duffy and MNS antigens are destroyed. Rh, Kidd, Lewis, P1, and I antigens are enhanced.",
+  "domain": "transfusion_medicine",
+  "id": 148
+ },
+ {
+  "chapter": 10,
+  "front": "What does DTT treatment of red cells destroy?",
+  "back": "Kell system antigens, and also Lutheran, Dombrock, and Yt. It also removes CD38 reactivity from reagent cells.",
+  "domain": "transfusion_medicine",
+  "id": 149
+ },
+ {
+  "chapter": 10,
+  "front": "Why are Kidd antibodies dangerous?",
+  "back": "They fall below detection quickly but return within days of antigen exposure, causing delayed hemolytic reactions with intravascular hemolysis.",
+  "domain": "transfusion_medicine",
+  "id": 150
+ },
+ {
+  "chapter": 10,
+  "front": "How is the chance of finding compatible units calculated?",
+  "back": "Multiply the antigen-negative frequencies. Anti-c (20 percent negative) with anti-K (91 percent) gives about 18 percent, so about 11 units for two.",
+  "domain": "transfusion_medicine",
+  "id": 151
+ },
+ {
+  "chapter": 10,
+  "front": "When is an electronic crossmatch acceptable?",
+  "back": "With a validated system, two ABO determinations, a negative screen, and no clinically significant antibody history, and the system must block incompatible release.",
+  "domain": "transfusion_medicine",
+  "id": 152
+ },
+ {
+  "chapter": 10,
+  "front": "Which plasma and red cell groups can go to a group A recipient?",
+  "back": "Red cells of group A or O. Plasma of group A or AB.",
+  "domain": "transfusion_medicine",
+  "id": 153
+ },
+ {
+  "chapter": 10,
+  "front": "How is a hidden alloantibody found beneath a warm autoantibody?",
+  "back": "By adsorption, using autologous cells if the patient was not recently transfused, or allogeneic phenotype-selected cells if the patient was.",
+  "domain": "transfusion_medicine",
+  "id": 154
+ },
+ {
+  "chapter": 10,
+  "front": "Why does daratumumab cause pan-reactivity in the screen?",
+  "back": "It binds CD38 on reagent cells. DTT-treated cells remove the interference, and K-negative units are supplied because DTT destroys Kell antigens.",
+  "domain": "transfusion_medicine",
+  "id": 155
+ },
+ {
+  "chapter": 10,
+  "front": "What is the first laboratory step in a suspected transfusion reaction?",
+  "back": "A clerical check of patient, unit, and records, then visual inspection for hemolysis, a DAT, and repeat ABO and D typing on pre and post samples.",
+  "domain": "transfusion_medicine",
+  "id": 156
+ },
+ {
+  "chapter": 11,
+  "front": "What is the minimum hemoglobin for allogeneic whole blood donation in Canada?",
+  "back": "125 g/L for women and 130 g/L for men, with at least 56 days between whole blood donations for men and 84 days for women.",
+  "domain": "transfusion_medicine",
+  "id": 157
+ },
+ {
+  "chapter": 11,
+  "front": "How long can a red cell unit in additive solution be stored, and at what temperature?",
+  "back": "42 days at 1 to 6 degrees Celsius.",
+  "domain": "transfusion_medicine",
+  "id": 158
+ },
+ {
+  "chapter": 11,
+  "front": "How much does one red cell unit raise the hemoglobin of an average 70 kg adult who is not bleeding?",
+  "back": "About 10 g/L.",
+  "domain": "transfusion_medicine",
+  "id": 159
+ },
+ {
+  "chapter": 11,
+  "front": "How are platelets stored, and why are they the component most often linked to bacterial reactions?",
+  "back": "At 20 to 24 degrees Celsius with continuous agitation; room temperature supports bacterial growth.",
+  "domain": "transfusion_medicine",
+  "id": 160
+ },
+ {
+  "chapter": 11,
+  "front": "How is the corrected count increment (CCI) calculated?",
+  "back": "(Post-count minus pre-count in x10^9/L) times body surface area in m2, divided by platelets transfused in units of 10^11.",
+  "domain": "transfusion_medicine",
+  "id": 161
+ },
+ {
+  "chapter": 11,
+  "front": "What CCI indicates an adequate platelet response at 10 to 60 minutes?",
+  "back": "A CCI above 7.5.",
+  "domain": "transfusion_medicine",
+  "id": 162
+ },
+ {
+  "chapter": 11,
+  "front": "What does gamma irradiation of cellular components prevent?",
+  "back": "Transfusion-associated graft-versus-host disease, by inactivating donor T lymphocytes.",
+  "domain": "transfusion_medicine",
+  "id": 163
+ },
+ {
+  "chapter": 11,
+  "front": "Name three groups of recipients who need irradiated cellular components.",
+  "back": "Stem cell transplant recipients, patients on purine analogues such as fludarabine, and recipients of donations from blood relatives.",
+  "domain": "transfusion_medicine",
+  "id": 164
+ },
+ {
+  "chapter": 11,
+  "front": "Which plasma group is the universal donor, and why?",
+  "back": "Group AB, because it contains no anti-A or anti-B.",
+  "domain": "transfusion_medicine",
+  "id": 165
+ },
+ {
+  "chapter": 11,
+  "front": "What does cryoprecipitate contain in concentrated form?",
+  "back": "Fibrinogen, factor VIII, von Willebrand factor, factor XIII, and fibronectin.",
+  "domain": "transfusion_medicine",
+  "id": 166
+ },
+ {
+  "chapter": 11,
+  "front": "What do the forward and reverse ABO groupings test, and what must happen if they disagree?",
+  "back": "Forward tests patient cells with anti-A and anti-B; reverse tests serum with A1 and B cells. The discrepancy is resolved before blood is issued.",
+  "domain": "transfusion_medicine",
+  "id": 167
+ },
+ {
+  "chapter": 11,
+  "front": "When is an immediate-spin crossmatch acceptable?",
+  "back": "When the antibody screen is negative and the patient has no history of clinically significant antibodies.",
+  "domain": "transfusion_medicine",
+  "id": 168
+ },
+ {
+  "chapter": 11,
+  "front": "What is the usual cause and mechanism of an acute hemolytic transfusion reaction?",
+  "back": "ABO incompatibility, usually from a clerical error; preformed anti-A or anti-B activates complement and lyses cells intravascularly.",
+  "domain": "transfusion_medicine",
+  "id": 169
+ },
+ {
+  "chapter": 11,
+  "front": "What is the first laboratory step in investigating a suspected hemolytic reaction?",
+  "back": "An independent clerical check, followed by inspecting the post-transfusion supernatant for hemolysis and performing a DAT.",
+  "domain": "transfusion_medicine",
+  "id": 170
+ },
+ {
+  "chapter": 11,
+  "front": "How do TRALI and TACO differ?",
+  "back": "TRALI shows hypoxemia, bilateral infiltrates, and a normal BNP; TACO shows hypertension, raised venous pressure, a rising BNP, and responds to diuretics.",
+  "domain": "transfusion_medicine",
+  "id": 171
+ },
+ {
+  "chapter": 11,
+  "front": "When does a delayed hemolytic transfusion reaction occur, and which antibodies are classic?",
+  "back": "3 to 14 days after transfusion in a previously sensitized patient; Kidd antibodies such as anti-Jka are classic.",
+  "domain": "transfusion_medicine",
+  "id": 172
+ },
+ {
+  "chapter": 12,
+  "front": "How does weak D differ from partial D?",
+  "back": "Weak D has fewer copies of normal D antigen and is managed as RhD positive; partial D lacks epitopes, can form anti-D, and is managed as RhD negative.",
+  "domain": "transfusion_medicine",
+  "id": 173
+ },
+ {
+  "chapter": 12,
+  "front": "Why is anti-K dangerous to a fetus at a modest titre?",
+  "back": "It suppresses erythroid precursors, causing severe anemia with little hemolysis and relatively low bilirubin.",
+  "domain": "transfusion_medicine",
+  "id": 174
+ },
+ {
+  "chapter": 12,
+  "front": "Why does ABO HDFN occur mostly with a group O mother?",
+  "back": "Group O women make IgG anti-A,B that crosses the placenta, whereas group A and B women make mainly IgM.",
+  "domain": "transfusion_medicine",
+  "id": 175
+ },
+ {
+  "chapter": 12,
+  "front": "What cord DAT result is typical in ABO HDFN?",
+  "back": "Weakly positive or negative, often needing an eluate to show anti-A or anti-B.",
+  "domain": "transfusion_medicine",
+  "id": 176
+ },
+ {
+  "chapter": 12,
+  "front": "What is the best noninvasive test for fetal anemia?",
+  "back": "Doppler measurement of middle cerebral artery peak systolic velocity, with values above 1.5 multiples of the median predicting moderate to severe anemia.",
+  "domain": "transfusion_medicine",
+  "id": 177
+ },
+ {
+  "chapter": 12,
+  "front": "How is an antibody titre reported?",
+  "back": "As the reciprocal of the highest serum dilution that gives a 1+ reaction, for example 32.",
+  "domain": "transfusion_medicine",
+  "id": 178
+ },
+ {
+  "chapter": 12,
+  "front": "What dose of RhIG is standard, and how much fetal blood does it cover?",
+  "back": "300 micrograms (1,500 IU), covering 30 mL of fetal whole blood.",
+  "domain": "transfusion_medicine",
+  "id": 179
+ },
+ {
+  "chapter": 12,
+  "front": "How is the number of RhIG vials calculated after a Kleihauer-Betke test?",
+  "back": "Fetal cell percentage times 50 mL gives the fetal blood volume; divide by 30 and round up, often adding one vial.",
+  "domain": "transfusion_medicine",
+  "id": 180
+ },
+ {
+  "chapter": 12,
+  "front": "What does the Kleihauer-Betke test detect, and how?",
+  "back": "Fetal cells in maternal blood; acid elution removes adult hemoglobin so fetal cells stain pink.",
+  "domain": "transfusion_medicine",
+  "id": 181
+ },
+ {
+  "chapter": 12,
+  "front": "What is the typical DAT pattern in cold agglutinin disease?",
+  "back": "Complement (C3d) only, because IgM elutes from the cells when blood warms.",
+  "domain": "transfusion_medicine",
+  "id": 182
+ },
+ {
+  "chapter": 12,
+  "front": "How is paroxysmal cold hemoglobinuria confirmed?",
+  "back": "The Donath-Landsteiner test: hemolysis occurs after incubation at 4 degrees then 37 degrees, not in the control kept at 37 degrees.",
+  "domain": "transfusion_medicine",
+  "id": 183
+ },
+ {
+  "chapter": 12,
+  "front": "What does the rule of three require for confirming an antibody?",
+  "back": "Reaction with at least three antigen-positive cells and no reaction with at least three antigen-negative cells.",
+  "domain": "transfusion_medicine",
+  "id": 184
+ },
+ {
+  "chapter": 12,
+  "front": "How does DTT treatment help with daratumumab interference?",
+  "back": "DTT denatures CD38 on reagent red cells, removing the panreactivity so alloantibodies can be seen.",
+  "domain": "transfusion_medicine",
+  "id": 185
+ },
+ {
+  "chapter": 12,
+  "front": "What is the purpose of adsorption in warm autoimmune hemolytic anemia?",
+  "back": "To remove autoantibody from serum so that hidden alloantibodies can be identified.",
+  "domain": "transfusion_medicine",
+  "id": 186
+ },
+ {
+  "chapter": 12,
+  "front": "What balanced ratio of products is targeted in massive transfusion?",
+  "back": "Red cells, plasma, and platelets in a ratio close to 1:1:1.",
+  "domain": "transfusion_medicine",
+  "id": 187
+ },
+ {
+  "chapter": 12,
+  "front": "What requirements apply to red cells for an exchange transfusion in HDFN?",
+  "back": "Antigen-negative for the maternal antibody, crossmatch compatible, fresh, irradiated, leukoreduced, and CMV-safe.",
+  "domain": "transfusion_medicine",
+  "id": 188
+ },
+ {
+  "chapter": 13,
+  "front": "What four principles apply to almost every microbiology specimen?",
+  "back": "Collect before antibiotics, from the true site of infection, in adequate amount, and deliver promptly.",
+  "domain": "clinical_microbiology",
+  "id": 189
+ },
+ {
+  "chapter": 13,
+  "front": "Which specimens should never be refrigerated?",
+  "back": "CSF and genital swabs for Neisseria, because fastidious organisms lose viability in the cold.",
+  "domain": "clinical_microbiology",
+  "id": 190
+ },
+ {
+  "chapter": 13,
+  "front": "How much blood is inoculated per bottle in adult blood cultures, and how many sets are collected?",
+  "back": "8 to 10 mL per bottle, at least two sets from separate sites.",
+  "domain": "clinical_microbiology",
+  "id": 191
+ },
+ {
+  "chapter": 13,
+  "front": "What blood culture contamination rate is a usual quality benchmark?",
+  "back": "About 3 percent; higher rates suggest a collection problem.",
+  "domain": "clinical_microbiology",
+  "id": 192
+ },
+ {
+  "chapter": 13,
+  "front": "Which blood culture isolates are rarely contaminants?",
+  "back": "Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Candida, and Pseudomonas aeruginosa.",
+  "domain": "clinical_microbiology",
+  "id": 193
+ },
+ {
+  "chapter": 13,
+  "front": "How is a urine colony count calculated with a 1 microlitre loop?",
+  "back": "Each colony equals 1,000 CFU/mL, so 45 colonies equal 45,000 CFU/mL.",
+  "domain": "clinical_microbiology",
+  "id": 194
+ },
+ {
+  "chapter": 13,
+  "front": "What sputum Gram stain findings show an acceptable lower respiratory specimen?",
+  "back": "More than 25 neutrophils and fewer than 10 squamous epithelial cells per low-power field.",
+  "domain": "clinical_microbiology",
+  "id": 195
+ },
+ {
+  "chapter": 13,
+  "front": "What are the four steps of the Gram stain?",
+  "back": "Crystal violet, Gram iodine, decolorizer, and safranin counterstain.",
+  "domain": "clinical_microbiology",
+  "id": 196
+ },
+ {
+  "chapter": 13,
+  "front": "What is the most common error in Gram staining?",
+  "back": "Incorrect decolorization: too long makes gram-positives look gram-negative, too short does the reverse.",
+  "domain": "clinical_microbiology",
+  "id": 197
+ },
+ {
+  "chapter": 13,
+  "front": "Which stain is more sensitive for acid-fast bacilli than Ziehl-Neelsen?",
+  "back": "Auramine-rhodamine fluorochrome staining, scanned at lower power.",
+  "domain": "clinical_microbiology",
+  "id": 198
+ },
+ {
+  "chapter": 13,
+  "front": "How does India ink help in CSF examination?",
+  "back": "It outlines the Cryptococcus capsule as a clear halo around yeast cells.",
+  "domain": "clinical_microbiology",
+  "id": 199
+ },
+ {
+  "chapter": 13,
+  "front": "Why is MacConkey agar both selective and differential?",
+  "back": "Bile salts and crystal violet inhibit gram-positives; lactose with neutral red separates pink lactose fermenters from colourless nonfermenters.",
+  "domain": "clinical_microbiology",
+  "id": 200
+ },
+ {
+  "chapter": 13,
+  "front": "What does Thayer-Martin agar select for?",
+  "back": "Neisseria gonorrhoeae and Neisseria meningitidis, using vancomycin, colistin, nystatin, and trimethoprim in chocolate agar.",
+  "domain": "clinical_microbiology",
+  "id": 201
+ },
+ {
+  "chapter": 13,
+  "front": "Which medium separates Escherichia coli O157:H7 from other E. coli?",
+  "back": "Sorbitol-MacConkey agar, on which O157:H7 gives colourless colonies.",
+  "domain": "clinical_microbiology",
+  "id": 202
+ },
+ {
+  "chapter": 13,
+  "front": "What atmosphere and temperature does Campylobacter need?",
+  "back": "Microaerophilic conditions at 42 degrees Celsius.",
+  "domain": "clinical_microbiology",
+  "id": 203
+ },
+ {
+  "chapter": 13,
+  "front": "What two checks are performed on each new lot of culture medium?",
+  "back": "A sterility check and a growth performance test with reference QC organisms.",
+  "domain": "clinical_microbiology",
+  "id": 204
+ },
+ {
+  "chapter": 14,
+  "front": "Which test first separates staphylococci from streptococci?",
+  "back": "Catalase: staphylococci are positive and streptococci negative.",
+  "domain": "clinical_microbiology",
+  "id": 205
+ },
+ {
+  "chapter": 14,
+  "front": "How is Staphylococcus aureus identified?",
+  "back": "Coagulase positive (tube or slide or latex), mannitol fermentation, DNase positive, or MALDI-TOF.",
+  "domain": "clinical_microbiology",
+  "id": 206
+ },
+ {
+  "chapter": 14,
+  "front": "What gene causes MRSA, and which disk detects it?",
+  "back": "mecA producing PBP2a; a 30 microgram cefoxitin disk.",
+  "domain": "clinical_microbiology",
+  "id": 207
+ },
+ {
+  "chapter": 14,
+  "front": "How is Staphylococcus saprophyticus separated from other coagulase-negative staphylococci?",
+  "back": "It is resistant to novobiocin.",
+  "domain": "clinical_microbiology",
+  "id": 208
+ },
+ {
+  "chapter": 14,
+  "front": "How is Streptococcus pyogenes identified?",
+  "back": "Beta hemolysis, bacitracin susceptibility, PYR positive, and group A antigen.",
+  "domain": "clinical_microbiology",
+  "id": 209
+ },
+ {
+  "chapter": 14,
+  "front": "How is Streptococcus agalactiae identified?",
+  "back": "Hippurate positive, CAMP positive, PYR negative, and group B antigen.",
+  "domain": "clinical_microbiology",
+  "id": 210
+ },
+ {
+  "chapter": 14,
+  "front": "How is Streptococcus pneumoniae separated from viridans streptococci?",
+  "back": "Pneumococcus is optochin susceptible and bile soluble; viridans streptococci are resistant and insoluble.",
+  "domain": "clinical_microbiology",
+  "id": 211
+ },
+ {
+  "chapter": 14,
+  "front": "What identifies Enterococcus?",
+  "back": "Bile-esculin positive, growth in 6.5 percent NaCl, and PYR positive.",
+  "domain": "clinical_microbiology",
+  "id": 212
+ },
+ {
+  "chapter": 14,
+  "front": "What does the vanA gene confer?",
+  "back": "High-level resistance to vancomycin and teicoplanin in enterococci.",
+  "domain": "clinical_microbiology",
+  "id": 213
+ },
+ {
+  "chapter": 14,
+  "front": "What is the typical Corynebacterium diphtheriae confirmation?",
+  "back": "Demonstrating toxin by the Elek test or tox gene PCR.",
+  "domain": "clinical_microbiology",
+  "id": 214
+ },
+ {
+  "chapter": 14,
+  "front": "Which gram-positive rod shows tumbling motility and grows in the cold?",
+  "back": "Listeria monocytogenes.",
+  "domain": "clinical_microbiology",
+  "id": 215
+ },
+ {
+  "chapter": 14,
+  "front": "How does TSI agar read for Salmonella?",
+  "back": "Alkaline slant, acid butt, with hydrogen sulphide blackening.",
+  "domain": "clinical_microbiology",
+  "id": 216
+ },
+ {
+  "chapter": 14,
+  "front": "What is the IMViC pattern of Escherichia coli?",
+  "back": "Indole positive, methyl red positive, Voges-Proskauer negative, citrate negative.",
+  "domain": "clinical_microbiology",
+  "id": 217
+ },
+ {
+  "chapter": 14,
+  "front": "What distinguishes an ESBL from AmpC?",
+  "back": "ESBLs are inhibited by clavulanate; AmpC enzymes are not.",
+  "domain": "clinical_microbiology",
+  "id": 218
+ },
+ {
+  "chapter": 14,
+  "front": "Which features identify Pseudomonas aeruginosa?",
+  "back": "Oxidase positive, grape-like odour, pyocyanin, and growth at 42 degrees Celsius.",
+  "domain": "clinical_microbiology",
+  "id": 219
+ },
+ {
+  "chapter": 14,
+  "front": "What growth factors does Haemophilus influenzae need?",
+  "back": "X factor (hemin) and V factor (NAD).",
+  "domain": "clinical_microbiology",
+  "id": 220
+ },
+ {
+  "chapter": 15,
+  "front": "How do beta-lactams kill bacteria?",
+  "back": "They bind penicillin-binding proteins, block peptidoglycan cross-linking, and weaken the cell wall.",
+  "domain": "clinical_microbiology",
+  "id": 221
+ },
+ {
+  "chapter": 15,
+  "front": "Give an example of intrinsic resistance.",
+  "back": "Klebsiella pneumoniae is intrinsically resistant to ampicillin.",
+  "domain": "clinical_microbiology",
+  "id": 222
+ },
+ {
+  "chapter": 15,
+  "front": "What causes methicillin resistance in staphylococci?",
+  "back": "PBP2a encoded by mecA, which has low affinity for beta-lactams.",
+  "domain": "clinical_microbiology",
+  "id": 223
+ },
+ {
+  "chapter": 15,
+  "front": "How does vanA resistance work?",
+  "back": "The peptidoglycan terminus is changed to D-alanyl-D-lactate, lowering vancomycin binding.",
+  "domain": "clinical_microbiology",
+  "id": 224
+ },
+ {
+  "chapter": 15,
+  "front": "What are the standard conditions for Kirby-Bauer disk diffusion?",
+  "back": "Mueller-Hinton agar 4 mm deep, 0.5 McFarland inoculum, 35 degrees Celsius for 16 to 18 hours.",
+  "domain": "clinical_microbiology",
+  "id": 225
+ },
+ {
+  "chapter": 15,
+  "front": "How does inoculum density change zone size?",
+  "back": "A heavy inoculum gives smaller zones and false resistance; a light one gives larger zones and false susceptibility.",
+  "domain": "clinical_microbiology",
+  "id": 226
+ },
+ {
+  "chapter": 15,
+  "front": "What is the reference method for MIC?",
+  "back": "Broth microdilution in cation-adjusted Mueller-Hinton broth.",
+  "domain": "clinical_microbiology",
+  "id": 227
+ },
+ {
+  "chapter": 15,
+  "front": "What is the MIC50 and MIC90 of a collection?",
+  "back": "The concentrations that inhibit 50 percent and 90 percent of the isolates tested.",
+  "domain": "clinical_microbiology",
+  "id": 228
+ },
+ {
+  "chapter": 15,
+  "front": "What does the D-test detect?",
+  "back": "Inducible clindamycin resistance mediated by erm genes.",
+  "domain": "clinical_microbiology",
+  "id": 229
+ },
+ {
+  "chapter": 15,
+  "front": "How is an ESBL confirmed phenotypically?",
+  "back": "A zone increase of 5 mm or more with clavulanate added to ceftazidime or cefotaxime.",
+  "domain": "clinical_microbiology",
+  "id": 230
+ },
+ {
+  "chapter": 15,
+  "front": "What do mCIM and eCIM together show?",
+  "back": "mCIM positive shows carbapenemase; EDTA inhibition on eCIM indicates a metallo-beta-lactamase.",
+  "domain": "clinical_microbiology",
+  "id": 231
+ },
+ {
+  "chapter": 15,
+  "front": "Which QC strain checks thymidine content of Mueller-Hinton medium?",
+  "back": "Enterococcus faecalis ATCC 29212, using trimethoprim-sulfamethoxazole.",
+  "domain": "clinical_microbiology",
+  "id": 232
+ },
+ {
+  "chapter": 15,
+  "front": "Why do QC zones for aminoglycosides against Pseudomonas shrink?",
+  "back": "Excess calcium or magnesium in the medium.",
+  "domain": "clinical_microbiology",
+  "id": 233
+ },
+ {
+  "chapter": 15,
+  "front": "What does cascade reporting do?",
+  "back": "Suppresses broad-spectrum agents on the report when a narrower active drug is available.",
+  "domain": "clinical_microbiology",
+  "id": 234
+ },
+ {
+  "chapter": 15,
+  "front": "What are the antibiogram rules for counting isolates?",
+  "back": "First isolate per patient per period, with at least 30 isolates per species.",
+  "domain": "clinical_microbiology",
+  "id": 235
+ },
+ {
+  "chapter": 16,
+  "front": "What are the three working groups of medically important fungi?",
+  "back": "Yeasts, molds, and dimorphic fungi.",
+  "domain": "clinical_microbiology",
+  "id": 236
+ },
+ {
+  "chapter": 16,
+  "front": "What does calcofluor white do?",
+  "back": "It binds chitin and fluoresces under ultraviolet light, detecting fungal elements.",
+  "domain": "clinical_microbiology",
+  "id": 237
+ },
+ {
+  "chapter": 16,
+  "front": "How is Candida albicans identified quickly?",
+  "back": "A positive germ tube test; it also grows at 45 degrees Celsius, unlike C. dubliniensis.",
+  "domain": "clinical_microbiology",
+  "id": 238
+ },
+ {
+  "chapter": 16,
+  "front": "Why is Candida auris a concern?",
+  "back": "It is multidrug resistant, persists on surfaces, spreads between patients, and is often misidentified.",
+  "domain": "clinical_microbiology",
+  "id": 239
+ },
+ {
+  "chapter": 16,
+  "front": "What is the most sensitive rapid test for cryptococcal meningitis?",
+  "back": "Cryptococcal antigen on CSF or serum.",
+  "domain": "clinical_microbiology",
+  "id": 240
+ },
+ {
+  "chapter": 16,
+  "front": "How do Aspergillus hyphae look in tissue?",
+  "back": "Narrow septate hyphae branching at acute angles.",
+  "domain": "clinical_microbiology",
+  "id": 241
+ },
+ {
+  "chapter": 16,
+  "front": "How do Mucorales look in tissue and why is the finding urgent?",
+  "back": "Broad ribbon-like pauciseptate hyphae with right-angle branching; amphotericin B and debridement must start at once.",
+  "domain": "clinical_microbiology",
+  "id": 242
+ },
+ {
+  "chapter": 16,
+  "front": "What medium identifies dermatophytes by colour change?",
+  "back": "Dermatophyte Test Medium, which turns red.",
+  "domain": "clinical_microbiology",
+  "id": 243
+ },
+ {
+  "chapter": 16,
+  "front": "Which dimorphic fungus has broad-based budding yeast?",
+  "back": "Blastomyces dermatitidis.",
+  "domain": "clinical_microbiology",
+  "id": 244
+ },
+ {
+  "chapter": 16,
+  "front": "Why is Coccidioides handled at Containment Level 3?",
+  "back": "Its arthroconidia are highly infectious and have caused many laboratory infections.",
+  "domain": "clinical_microbiology",
+  "id": 245
+ },
+ {
+  "chapter": 16,
+  "front": "Which stain detects Cryptosporidium oocysts?",
+  "back": "Modified acid-fast stain.",
+  "domain": "clinical_microbiology",
+  "id": 246
+ },
+ {
+  "chapter": 16,
+  "front": "What is the best method to recover pinworm eggs?",
+  "back": "Cellophane tape applied to the perianal skin in the morning.",
+  "domain": "clinical_microbiology",
+  "id": 247
+ },
+ {
+  "chapter": 16,
+  "front": "How is parasite density calculated on a thick malaria film?",
+  "back": "Parasites counted divided by white cells counted, times the white cell count (8,000 per microlitre if assumed).",
+  "domain": "clinical_microbiology",
+  "id": 248
+ },
+ {
+  "chapter": 16,
+  "front": "How many sets of films are needed before malaria is excluded?",
+  "back": "Three sets at 12 to 24 hour intervals.",
+  "domain": "clinical_microbiology",
+  "id": 249
+ },
+ {
+  "chapter": 16,
+  "front": "What does HBsAg positive for more than 6 months define?",
+  "back": "Chronic hepatitis B infection.",
+  "domain": "clinical_microbiology",
+  "id": 250
+ },
+ {
+  "chapter": 17,
+  "front": "What are the four main goals of fixation?",
+  "back": "Stop autolysis and putrefaction, harden the tissue for cutting, preserve cellular detail close to the living state, and do so without introducing artefact.",
+  "domain": "histology",
+  "id": 251
+ },
+ {
+  "chapter": 17,
+  "front": "What is 10 percent neutral buffered formalin in terms of formaldehyde concentration?",
+  "back": "It is a one in ten dilution of 37 to 40 percent stock formalin, giving about 3.7 to 4 percent formaldehyde, with phosphate buffering near pH 7.",
+  "domain": "histology",
+  "id": 252
+ },
+ {
+  "chapter": 17,
+  "front": "How fast does formalin penetrate tissue, and how long does cross-linking take?",
+  "back": "About 1 mm per hour at first, slowing with depth, while full cross-linking takes 24 hours or more.",
+  "domain": "histology",
+  "id": 253
+ },
+ {
+  "chapter": 17,
+  "front": "What fixative volume and tissue thickness are recommended?",
+  "back": "Use fixative at least 10 to 20 times the tissue volume, and keep tissue slices about 3 to 4 mm thick in the cassette.",
+  "domain": "histology",
+  "id": 254
+ },
+ {
+  "chapter": 17,
+  "front": "What is formalin pigment and how is it prevented?",
+  "back": "A brown to black granular deposit formed when acidic formalin reacts with haemoglobin; it is prevented by buffering the formalin to near neutral pH.",
+  "domain": "histology",
+  "id": 255
+ },
+ {
+  "chapter": 17,
+  "front": "Which breast specimen fixation window is widely recommended for biomarker testing?",
+  "back": "Fixation in neutral buffered formalin for 6 to 72 hours, with cold ischemia time kept short and recorded.",
+  "domain": "histology",
+  "id": 256
+ },
+ {
+  "chapter": 17,
+  "front": "Why is Bouin solution unsuitable for molecular work?",
+  "back": "Its picric and acetic acids hydrolyze DNA, although it gives excellent nuclear detail and is useful for testis and small biopsies.",
+  "domain": "histology",
+  "id": 257
+ },
+ {
+  "chapter": 17,
+  "front": "What must be done with mercury fixatives after sectioning?",
+  "back": "Black mercury deposits must be removed with iodine followed by sodium thiosulfate before staining.",
+  "domain": "histology",
+  "id": 258
+ },
+ {
+  "chapter": 17,
+  "front": "Which fixative is the primary choice for electron microscopy?",
+  "back": "Glutaraldehyde, usually 2 to 2.5 percent in buffer, followed by osmium tetroxide post-fixation, on tissue diced to about 1 mm.",
+  "domain": "histology",
+  "id": 259
+ },
+ {
+  "chapter": 17,
+  "front": "Which decalcifying agent best preserves antigens and nucleic acids?",
+  "back": "EDTA at neutral pH, a chelating agent, although it is slow and may take weeks for dense bone.",
+  "domain": "histology",
+  "id": 260
+ },
+ {
+  "chapter": 17,
+  "front": "How is the end point of decalcification confirmed?",
+  "back": "By the ammonium oxalate test on used fluid or by radiograph of the specimen, not by bending or probing the tissue.",
+  "domain": "histology",
+  "id": 261
+ },
+ {
+  "chapter": 17,
+  "front": "What are the three stages of tissue processing?",
+  "back": "Dehydration in graded alcohols, clearing with a solvent that mixes with alcohol and wax, and infiltration with molten paraffin.",
+  "domain": "histology",
+  "id": 262
+ },
+ {
+  "chapter": 17,
+  "front": "At what temperature is paraffin infiltration performed?",
+  "back": "At about 58 to 60 degrees Celsius, a few degrees above the wax melting point.",
+  "domain": "histology",
+  "id": 263
+ },
+ {
+  "chapter": 17,
+  "front": "How does under-processed tissue behave at the microtome?",
+  "back": "The block is soft and mushy, sections crumble, and the tissue centre may fall out, usually from diluted alcohols or overloaded cassettes.",
+  "domain": "histology",
+  "id": 264
+ },
+ {
+  "chapter": 17,
+  "front": "How does over-processed tissue behave at the microtome?",
+  "back": "The block is hard and brittle with a gritty feel, sections chip, and tissue is shrunken.",
+  "domain": "histology",
+  "id": 265
+ },
+ {
+  "chapter": 17,
+  "front": "How is a 10 percent NBF volume prepared from 40 percent stock formaldehyde?",
+  "back": "Mix one part stock with nine parts water, then add phosphate salts; for 5 litres use 500 mL stock and 4.5 litres water.",
+  "domain": "histology",
+  "id": 266
+ },
+ {
+  "chapter": 18,
+  "front": "Which face of the tissue sits at the base of the mould during embedding?",
+  "back": "The cut face that will be sectioned first, so the correct tissue surface appears in the first sections.",
+  "domain": "histology",
+  "id": 267
+ },
+ {
+  "chapter": 18,
+  "front": "How should a bisected skin punch biopsy be embedded?",
+  "back": "On edge with the cut faces down, so epidermis, dermis, and subcutis all appear in one section.",
+  "domain": "histology",
+  "id": 268
+ },
+ {
+  "chapter": 18,
+  "front": "What section thickness is routine for diagnostic paraffin sections?",
+  "back": "About 3 to 5 micrometres.",
+  "domain": "histology",
+  "id": 269
+ },
+ {
+  "chapter": 18,
+  "front": "What is the usual blade clearance angle on a rotary microtome?",
+  "back": "Roughly 3 to 10 degrees, set according to the manufacturer's instructions.",
+  "domain": "histology",
+  "id": 270
+ },
+ {
+  "chapter": 18,
+  "front": "What does chatter look like and what causes it?",
+  "back": "Regular parallel bands of thick and thin staining, caused by vibration from a loose blade, holder, chuck, or block, or by a hard block.",
+  "domain": "histology",
+  "id": 271
+ },
+ {
+  "chapter": 18,
+  "front": "What causes knife lines (scoring) in sections?",
+  "back": "A nick in the blade edge or a hard particle in the tissue; moving to a fresh blade area usually fixes it.",
+  "domain": "histology",
+  "id": 272
+ },
+ {
+  "chapter": 18,
+  "front": "What water bath temperature is used for floating paraffin sections?",
+  "back": "About 5 to 10 degrees below the wax melting point, typically 45 to 50 degrees Celsius.",
+  "domain": "histology",
+  "id": 273
+ },
+ {
+  "chapter": 18,
+  "front": "What are floaters and how are they prevented?",
+  "back": "Stray tissue fragments from a previous case picked up on a slide; prevented by skimming and changing the water bath and cleaning forceps between cases.",
+  "domain": "histology",
+  "id": 274
+ },
+ {
+  "chapter": 18,
+  "front": "Why are charged or coated slides used for immunohistochemistry?",
+  "back": "They keep sections attached through harsh retrieval and staining steps through electrostatic or adhesive binding.",
+  "domain": "histology",
+  "id": 275
+ },
+ {
+  "chapter": 18,
+  "front": "How is hematoxylin made into a working nuclear dye?",
+  "back": "It is oxidized to hematein and combined with a metal mordant, usually aluminum, to form a cationic dye lake that binds nuclear acids.",
+  "domain": "histology",
+  "id": 276
+ },
+ {
+  "chapter": 18,
+  "front": "What is the difference between progressive and regressive hematoxylin staining?",
+  "back": "Progressive stains stop at the desired intensity, while regressive stains overstain and then remove excess in a differentiation step.",
+  "domain": "histology",
+  "id": 277
+ },
+ {
+  "chapter": 18,
+  "front": "What is acid alcohol used for in H&E staining?",
+  "back": "Brief differentiation, typically 0.25 to 1 percent hydrochloric acid in 70 percent ethanol, removes excess hematoxylin from cytoplasm.",
+  "domain": "histology",
+  "id": 278
+ },
+ {
+  "chapter": 18,
+  "front": "What does bluing do?",
+  "back": "It converts the red-purple acid form of the hematoxylin lake to the blue-purple alkaline form, using tap water, Scott solution, or lithium carbonate.",
+  "domain": "histology",
+  "id": 279
+ },
+ {
+  "chapter": 18,
+  "front": "What is the usual pH of eosin Y and its colour effect?",
+  "back": "About pH 4.5 to 5, giving shades of pink to red on cytoplasm and collagen.",
+  "domain": "histology",
+  "id": 280
+ },
+ {
+  "chapter": 18,
+  "front": "What causes red-brown nuclei after H&E?",
+  "back": "Inadequate bluing after differentiation.",
+  "domain": "histology",
+  "id": 281
+ },
+ {
+  "chapter": 18,
+  "front": "What causes cloudy milky areas under a coverslip?",
+  "back": "Water carried into the clearing agent, usually from wet dehydrating alcohols that need replacing.",
+  "domain": "histology",
+  "id": 282
+ },
+ {
+  "chapter": 19,
+  "front": "What does the PAS reaction detect and how does it work?",
+  "back": "Glycogen, neutral mucin, basement membrane, and fungal walls; periodic acid makes aldehydes from 1,2-glycols and Schiff reagent turns them magenta.",
+  "domain": "histology",
+  "id": 283
+ },
+ {
+  "chapter": 19,
+  "front": "What does diastase digestion before PAS prove?",
+  "back": "Loss of staining shows the material was glycogen, because diastase digests glycogen but not neutral mucin or fungi.",
+  "domain": "histology",
+  "id": 284
+ },
+ {
+  "chapter": 19,
+  "front": "How do Alcian blue at pH 2.5 and pH 1.0 differ?",
+  "back": "At pH 2.5 both carboxylated and sulphated acid mucins stain, whereas at pH 1.0 only sulphated mucins stain.",
+  "domain": "histology",
+  "id": 285
+ },
+ {
+  "chapter": 19,
+  "front": "What colours does Masson trichrome give?",
+  "back": "Nuclei black, cytoplasm and muscle red, and collagen blue or green.",
+  "domain": "histology",
+  "id": 286
+ },
+ {
+  "chapter": 19,
+  "front": "How is reticulin demonstrated?",
+  "back": "By silver impregnation after oxidation and sensitization, giving black fibres of type III collagen.",
+  "domain": "histology",
+  "id": 287
+ },
+ {
+  "chapter": 19,
+  "front": "What does the Verhoeff-Van Gieson stain show?",
+  "back": "Elastic fibres black, collagen red, and other tissue yellow.",
+  "domain": "histology",
+  "id": 288
+ },
+ {
+  "chapter": 19,
+  "front": "What does the Perls reaction show?",
+  "back": "Ferric iron, including haemosiderin, as Prussian blue after acid treatment and potassium ferrocyanide.",
+  "domain": "histology",
+  "id": 289
+ },
+ {
+  "chapter": 19,
+  "front": "What does von Kossa actually stain?",
+  "back": "Calcium phosphate and carbonate salts, by silver replacement reduced to black metal, not calcium itself.",
+  "domain": "histology",
+  "id": 290
+ },
+ {
+  "chapter": 19,
+  "front": "What does Fontana-Masson stain?",
+  "back": "Melanin and argentaffin granules black, because they reduce ammoniacal silver without a reducing agent.",
+  "domain": "histology",
+  "id": 291
+ },
+ {
+  "chapter": 19,
+  "front": "How is amyloid confirmed with Congo red?",
+  "back": "By apple-green birefringence under polarized light in thick sections, not by red colour alone.",
+  "domain": "histology",
+  "id": 292
+ },
+ {
+  "chapter": 19,
+  "front": "What does the Ziehl-Neelsen stain show?",
+  "back": "Acid-fast mycobacteria as red rods on a blue background, using hot carbol fuchsin and acid alcohol.",
+  "domain": "histology",
+  "id": 293
+ },
+ {
+  "chapter": 19,
+  "front": "What does Grocott methenamine silver (GMS) show?",
+  "back": "Fungal cell walls and Pneumocystis cysts in black on a green background, through chromic acid oxidation of wall polysaccharide.",
+  "domain": "histology",
+  "id": 294
+ },
+ {
+  "chapter": 19,
+  "front": "What are the principal detection steps in immunohistochemistry?",
+  "back": "A specific primary antibody binds the antigen, a polymer or secondary system carries peroxidase, and DAB produces a brown precipitate.",
+  "domain": "histology",
+  "id": 295
+ },
+ {
+  "chapter": 19,
+  "front": "What is heat-induced epitope retrieval?",
+  "back": "Heating slides at 95 to 100 degrees Celsius for 20 to 40 minutes in citrate pH 6 or Tris-EDTA pH 9 buffer to reverse formalin masking.",
+  "domain": "histology",
+  "id": 296
+ },
+ {
+  "chapter": 19,
+  "front": "What control checks for non-specific binding of the IHC detection system?",
+  "back": "A negative reagent control, in which the primary antibody is replaced by a nonimmune antibody or buffer.",
+  "domain": "histology",
+  "id": 297
+ },
+ {
+  "chapter": 19,
+  "front": "What is the primary antibody volume needed for 3 mL at a 1 in 200 dilution?",
+  "back": "15 microlitres of concentrate, added to 2,985 microlitres of diluent.",
+  "domain": "histology",
+  "id": 298
+ },
+ {
+  "chapter": 20,
+  "front": "What are the main uses of frozen section?",
+  "back": "Rapid intraoperative diagnosis, margin assessment, adequacy checks, and tests needing unfixed tissue such as lipids, enzymes, and immunofluorescence.",
+  "domain": "histology",
+  "id": 299
+ },
+ {
+  "chapter": 20,
+  "front": "Is the frozen section diagnosis final?",
+  "back": "No, it is preliminary, and the final diagnosis is based on permanent paraffin sections.",
+  "domain": "histology",
+  "id": 300
+ },
+ {
+  "chapter": 20,
+  "front": "What is OCT compound?",
+  "back": "A water-soluble blend of polyvinyl alcohol and polyethylene glycol that supports tissue during frozen cutting.",
+  "domain": "histology",
+  "id": 301
+ },
+ {
+  "chapter": 20,
+  "front": "Why does slow freezing damage tissue?",
+  "back": "It forms large ice crystals that leave holes and distort nuclei, called ice crystal artefact.",
+  "domain": "histology",
+  "id": 302
+ },
+ {
+  "chapter": 20,
+  "front": "How should tissue be frozen quickly?",
+  "back": "On the cold shelf with a heat extractor, or in isopentane cooled by liquid nitrogen or dry ice, never dropped directly in liquid nitrogen.",
+  "domain": "histology",
+  "id": 303
+ },
+ {
+  "chapter": 20,
+  "front": "What cryostat temperature suits most tissue, and fat?",
+  "back": "About minus 20 to minus 25 degrees Celsius for most tissue, and minus 30 degrees or colder for fatty tissue.",
+  "domain": "histology",
+  "id": 304
+ },
+ {
+  "chapter": 20,
+  "front": "What happens if the block is too cold or too warm?",
+  "back": "Too cold causes brittle, shattering sections, while too warm causes smearing, sticking, and wrinkling.",
+  "domain": "histology",
+  "id": 305
+ },
+ {
+  "chapter": 20,
+  "front": "What section thickness is used for frozen sections?",
+  "back": "About 5 to 10 micrometres, mounted by touching a room-temperature slide to the section.",
+  "domain": "histology",
+  "id": 306
+ },
+ {
+  "chapter": 20,
+  "front": "How long does a rapid frozen H&E take and what is a common target turnaround?",
+  "back": "The stain takes about 3 to 5 minutes, and many laboratories aim to report within about 20 minutes of receipt.",
+  "domain": "histology",
+  "id": 307
+ },
+ {
+  "chapter": 20,
+  "front": "How are lipids demonstrated and mounted?",
+  "back": "With Oil Red O or Sudan dyes on frozen sections, mounted in an aqueous medium because alcohol and xylene dissolve lipid.",
+  "domain": "histology",
+  "id": 308
+ },
+ {
+  "chapter": 20,
+  "front": "Which specimen should not be cut on a cryostat?",
+  "back": "Tissue from suspected Creutzfeldt-Jakob disease or other prion disease, because prions resist ordinary disinfection.",
+  "domain": "histology",
+  "id": 309
+ },
+ {
+  "chapter": 20,
+  "front": "How is a cryostat decontaminated?",
+  "back": "Surfaces are wiped with 70 percent ethanol or disinfectant between cases, and the unit is fully defrosted and cleaned on a regular schedule.",
+  "domain": "histology",
+  "id": 310
+ },
+ {
+  "chapter": 20,
+  "front": "What hazards does liquid nitrogen present?",
+  "back": "Severe cold burns, oxygen displacement as it evaporates, and pressure rupture of sealed containers.",
+  "domain": "histology",
+  "id": 311
+ },
+ {
+  "chapter": 20,
+  "front": "How is frozen section discordance rate calculated?",
+  "back": "Discordant cases divided by total frozen sections; for example 4 of 200 is 2 percent.",
+  "domain": "histology",
+  "id": 312
+ },
+ {
+  "chapter": 20,
+  "front": "What is the stepwise approach to histology troubleshooting?",
+  "back": "Describe the defect, map it to a process stage, check the likeliest and cheapest causes first, and change one variable at a time.",
+  "domain": "histology",
+  "id": 313
+ },
+ {
+  "chapter": 21,
+  "front": "What is the difference between exfoliative and aspiration cytology?",
+  "back": "Exfoliative cytology examines cells shed or scraped from surfaces and fluids, while aspiration uses a fine needle to withdraw cells from a mass.",
+  "domain": "cytology",
+  "id": 314
+ },
+ {
+  "chapter": 21,
+  "front": "How must a conventional Pap smear be fixed?",
+  "back": "Immediately, in 95 percent ethanol for at least 15 minutes or with a spray fixative held about 20 to 25 centimetres away.",
+  "domain": "cytology",
+  "id": 315
+ },
+ {
+  "chapter": 21,
+  "front": "What is air-drying artefact?",
+  "back": "Swollen, pale, smudged nuclei with poor chromatin detail that result from letting cells dry before fixation.",
+  "domain": "cytology",
+  "id": 316
+ },
+ {
+  "chapter": 21,
+  "front": "How do ThinPrep and SurePath differ?",
+  "back": "ThinPrep uses a methanol-based preservative and filter transfer, whereas SurePath uses an ethanol-based preservative and density-gradient centrifugation.",
+  "domain": "cytology",
+  "id": 317
+ },
+ {
+  "chapter": 21,
+  "front": "What are the Bethesda adequacy cell numbers for cervical samples?",
+  "back": "About 8,000 to 12,000 squamous cells for conventional smears and about 5,000 for liquid-based preparations.",
+  "domain": "cytology",
+  "id": 318
+ },
+ {
+  "chapter": 21,
+  "front": "How should an effusion be handled if delivery is delayed?",
+  "back": "Refrigerate it at about 4 degrees Celsius or add an equal volume of 50 percent ethanol.",
+  "domain": "cytology",
+  "id": 319
+ },
+ {
+  "chapter": 21,
+  "front": "How much 95 percent ethanol is needed to make 1,000 mL of 50 percent ethanol?",
+  "back": "About 526 mL, brought to 1,000 mL with water, using C1V1 equals C2V2.",
+  "domain": "cytology",
+  "id": 320
+ },
+ {
+  "chapter": 21,
+  "front": "Why is a first morning urine void a poor cytology specimen?",
+  "back": "Cells sit in the bladder overnight and degenerate, so a second morning or random void is preferred.",
+  "domain": "cytology",
+  "id": 321
+ },
+ {
+  "chapter": 21,
+  "front": "How quickly should cerebrospinal fluid be processed?",
+  "back": "Within about one hour, because its few cells lyse quickly.",
+  "domain": "cytology",
+  "id": 322
+ },
+ {
+  "chapter": 21,
+  "front": "What two kinds of smear are made from a fine needle aspirate?",
+  "back": "An air-dried smear for Romanowsky stain, showing cytoplasm and background, and an alcohol-fixed smear for Papanicolaou, showing nuclear detail.",
+  "domain": "cytology",
+  "id": 323
+ },
+ {
+  "chapter": 21,
+  "front": "What is rapid on-site evaluation (ROSE)?",
+  "back": "A quick stain and review at the procedure to tell the operator whether the sample is adequate, which guides the number of passes.",
+  "domain": "cytology",
+  "id": 324
+ },
+ {
+  "chapter": 21,
+  "front": "What is the thyroid FNA adequacy criterion?",
+  "back": "At least six groups of well-preserved benign follicular cells, each with ten or more cells, on at least one slide.",
+  "domain": "cytology",
+  "id": 325
+ },
+ {
+  "chapter": 21,
+  "front": "What is a cell block used for?",
+  "back": "It allows paraffin sections, immunostains, and molecular tests on cytology material, fixed in formalin for a defined time.",
+  "domain": "cytology",
+  "id": 326
+ },
+ {
+  "chapter": 21,
+  "front": "How does a cytospin prepare a slide?",
+  "back": "It spins a small volume of fluid through a funnel onto a slide, with an absorbent card removing the liquid and leaving cells in a small circle.",
+  "domain": "cytology",
+  "id": 327
+ },
+ {
+  "chapter": 21,
+  "front": "How does Papanicolaou stain colour keratinized cells and immature cells?",
+  "back": "Orange G colours keratin orange, while superficial cells look pink and intermediate or parabasal cells look blue-green.",
+  "domain": "cytology",
+  "id": 328
+ },
+ {
+  "chapter": 22,
+  "front": "What is the transformation zone and why is it the sampling target?",
+  "back": "It is the region between the original and current squamocolumnar junction where columnar epithelium is replaced by squamous metaplasia. Nearly all cervical squamous neoplasia arises there.",
+  "domain": "cytology",
+  "id": 329
+ },
+ {
+  "chapter": 22,
+  "front": "Which hormone drives maturation of squamous cells to the superficial stage?",
+  "back": "Estrogen. Progesterone arrests maturation at the intermediate stage and promotes clustering and folding.",
+  "domain": "cytology",
+  "id": 330
+ },
+ {
+  "chapter": 22,
+  "front": "What are the typical size and nucleus of a superficial squamous cell?",
+  "back": "About 40 to 60 micrometres across, with thin pink cytoplasm and a small pyknotic nucleus of 4 to 6 micrometres or less.",
+  "domain": "cytology",
+  "id": 331
+ },
+ {
+  "chapter": 22,
+  "front": "How is the maturation value calculated?",
+  "back": "0 x %parabasal + 0.5 x %intermediate + 1.0 x %superficial. For 10/60/30 it equals 60.",
+  "domain": "cytology",
+  "id": 332
+ },
+ {
+  "chapter": 22,
+  "front": "What is the minimum squamous cell estimate for a satisfactory conventional smear and a liquid-based slide?",
+  "back": "Conventional smear: about 8,000 to 12,000 well-visualized squamous cells. Liquid-based: at least 5,000.",
+  "domain": "cytology",
+  "id": 333
+ },
+ {
+  "chapter": 22,
+  "front": "When is a gynecologic slide unsatisfactory because of obscuring material?",
+  "back": "When more than 75 percent of squamous cells are obscured by blood, inflammation, thick areas or debris.",
+  "domain": "cytology",
+  "id": 334
+ },
+ {
+  "chapter": 22,
+  "front": "What is the endocervical or transformation zone component quality indicator?",
+  "back": "At least 10 well-preserved endocervical or squamous metaplastic cells. Its absence does not make a specimen unsatisfactory.",
+  "domain": "cytology",
+  "id": 335
+ },
+ {
+  "chapter": 22,
+  "front": "At what age are benign-appearing endometrial cells reported on a Pap test?",
+  "back": "Only in women aged 45 and over, since early-cycle shedding is normal in younger women.",
+  "domain": "cytology",
+  "id": 336
+ },
+ {
+  "chapter": 22,
+  "front": "How do you judge nuclear enlargement on a Pap slide?",
+  "back": "Compare it with the intermediate cell nucleus on the same slide. About three times that nuclear area or more suggests a squamous intraepithelial lesion.",
+  "domain": "cytology",
+  "id": 337
+ },
+ {
+  "chapter": 22,
+  "front": "What are the cytologic features of repair?",
+  "back": "Cohesive flat sheets with streaming nuclei, fine chromatin, prominent nucleoli, preserved polarity and neutrophils within the sheet.",
+  "domain": "cytology",
+  "id": 338
+ },
+ {
+  "chapter": 22,
+  "front": "How does radiation effect differ from neoplasia?",
+  "back": "Both the cell and nucleus are enlarged so the nuclear-to-cytoplasmic ratio is preserved, with multinucleation, vacuoles and polychromasia.",
+  "domain": "cytology",
+  "id": 339
+ },
+ {
+  "chapter": 22,
+  "front": "What does atrophy look like on a Pap smear?",
+  "back": "Parabasal cells with smooth uniform nuclei, blue blobs, granular debris and inflammatory cells in a low-estrogen state.",
+  "domain": "cytology",
+  "id": 340
+ },
+ {
+  "chapter": 22,
+  "front": "What is cytolysis and what causes it?",
+  "back": "Lysis of intermediate cell cytoplasm by lactobacilli in the luteal phase or pregnancy, leaving naked uniform nuclei in a background of rods.",
+  "domain": "cytology",
+  "id": 341
+ },
+ {
+  "chapter": 22,
+  "front": "What are navicular cells?",
+  "back": "Boat-shaped glycogenated intermediate cells with thick central folds, characteristic of pregnancy and progesterone effect.",
+  "domain": "cytology",
+  "id": 342
+ },
+ {
+  "chapter": 22,
+  "front": "Why is fixation of a conventional smear done immediately?",
+  "back": "Delay causes air-drying artefact, which enlarges nuclei and blurs chromatin, mimicking atypia.",
+  "domain": "cytology",
+  "id": 343
+ },
+ {
+  "chapter": 22,
+  "front": "What does an ASC to SIL ratio far above about 3 to 1 suggest?",
+  "back": "Possible over-use of the atypical category, which should prompt review of criteria and reader training.",
+  "domain": "cytology",
+  "id": 344
+ },
+ {
+  "chapter": 23,
+  "front": "What are the Bethesda squamous abnormality categories?",
+  "back": "ASC-US, ASC-H, LSIL, HSIL and squamous cell carcinoma.",
+  "domain": "cytology",
+  "id": 345
+ },
+ {
+  "chapter": 23,
+  "front": "Which HPV types cause about 70 percent of cervical cancers?",
+  "back": "Types 16 and 18.",
+  "domain": "cytology",
+  "id": 346
+ },
+ {
+  "chapter": 23,
+  "front": "How do HPV E6 and E7 promote cancer?",
+  "back": "E6 disables p53 and E7 disables the retinoblastoma protein, driving unchecked cell cycling.",
+  "domain": "cytology",
+  "id": 347
+ },
+ {
+  "chapter": 23,
+  "front": "What nuclear size defines ASC-US?",
+  "back": "About two and a half to three times the area of a normal intermediate nucleus with minimal other changes.",
+  "domain": "cytology",
+  "id": 348
+ },
+ {
+  "chapter": 23,
+  "front": "What is ASC-H?",
+  "back": "Small metaplastic-sized cells with a high nuclear-to-cytoplasmic ratio that cannot exclude high-grade lesion, usually sent to colposcopy.",
+  "domain": "cytology",
+  "id": 349
+ },
+ {
+  "chapter": 23,
+  "front": "What is a koilocyte?",
+  "back": "A mature squamous cell with an enlarged irregular nucleus and a sharply defined perinuclear cavity with a dense peripheral cytoplasmic rim.",
+  "domain": "cytology",
+  "id": 350
+ },
+ {
+  "chapter": 23,
+  "front": "What nuclear area suggests LSIL?",
+  "back": "At least three times the area of a normal intermediate nucleus, with irregular membranes and variable hyperchromasia.",
+  "domain": "cytology",
+  "id": 351
+ },
+ {
+  "chapter": 23,
+  "front": "Which cells make up HSIL and how do they look?",
+  "back": "Small immature basaloid cells with scant cytoplasm, high ratio, coarse chromatin and notched irregular membranes.",
+  "domain": "cytology",
+  "id": 352
+ },
+ {
+  "chapter": 23,
+  "front": "What is a hyperchromatic crowded group?",
+  "back": "A dense three-dimensional cluster with overlapping dark nuclei, a difficult finding that can be HSIL, glandular lesion or benign. Examine its edges.",
+  "domain": "cytology",
+  "id": 353
+ },
+ {
+  "chapter": 23,
+  "front": "What is tumour diathesis?",
+  "back": "A background of old blood, necrotic debris and protein that supports invasive carcinoma.",
+  "domain": "cytology",
+  "id": 354
+ },
+ {
+  "chapter": 23,
+  "front": "What features define adenocarcinoma in situ?",
+  "back": "Feathering, rosettes, strips of elongated hyperchromatic stratified nuclei, mitoses and apoptoses in a clean background.",
+  "domain": "cytology",
+  "id": 355
+ },
+ {
+  "chapter": 23,
+  "front": "What does endometrial adenocarcinoma look like on a Pap test?",
+  "back": "Small tight clusters with scant vacuolated cytoplasm, small nucleoli and a watery diathesis, sometimes with engulfed neutrophils.",
+  "domain": "cytology",
+  "id": 356
+ },
+ {
+  "chapter": 23,
+  "front": "How is Trichomonas vaginalis recognized?",
+  "back": "Pear-shaped organism 15 to 30 micrometres with a pale eccentric nucleus and red-orange granules, in an inflammatory background.",
+  "domain": "cytology",
+  "id": 357
+ },
+ {
+  "chapter": 23,
+  "front": "How does Candida appear on a Pap smear?",
+  "back": "Budding yeast 3 to 7 micrometres and pseudohyphae that skewer squamous cells like a shish kebab.",
+  "domain": "cytology",
+  "id": 358
+ },
+ {
+  "chapter": 23,
+  "front": "What defines a shift in flora suggestive of bacterial vaginosis?",
+  "back": "Coccobacilli coating squamous cells to form clue cells, with loss of lactobacilli and few leukocytes.",
+  "domain": "cytology",
+  "id": 359
+ },
+ {
+  "chapter": 23,
+  "front": "What are the cytologic hallmarks of herpes simplex virus?",
+  "back": "Multinucleation, nuclear molding and chromatin margination with ground-glass nuclei.",
+  "domain": "cytology",
+  "id": 360
+ },
+ {
+  "chapter": 24,
+  "front": "What are Light's criteria for a pleural exudate?",
+  "back": "Pleural to serum protein above 0.5, pleural to serum LDH above 0.6, or pleural LDH above two thirds of the serum upper limit. One criterion is enough.",
+  "domain": "cytology",
+  "id": 361
+ },
+ {
+  "chapter": 24,
+  "front": "How should effusion fluid be stored if delayed?",
+  "back": "Refrigerate at 4 degrees Celsius, because cells degenerate at room temperature.",
+  "domain": "cytology",
+  "id": 362
+ },
+ {
+  "chapter": 24,
+  "front": "Why prepare a cell block from an effusion?",
+  "back": "It allows multiple sections for immunohistochemistry and molecular testing.",
+  "domain": "cytology",
+  "id": 363
+ },
+ {
+  "chapter": 24,
+  "front": "What are the features of mesothelial cells?",
+  "back": "Two-toned cytoplasm, a fuzzy microvillous border and small windows between adjacent cells.",
+  "domain": "cytology",
+  "id": 364
+ },
+ {
+  "chapter": 24,
+  "front": "What is the typical pattern of metastatic adenocarcinoma in effusions?",
+  "back": "Smooth-bordered three-dimensional balls with prominent nucleoli and vacuolated cytoplasm, lacking windows.",
+  "domain": "cytology",
+  "id": 365
+ },
+ {
+  "chapter": 24,
+  "front": "Why is mesothelioma not diagnosed on cytology alone?",
+  "back": "Invasion cannot be seen, so cell block immunostains such as BAP1 loss or MTAP loss and clinical correlation are needed.",
+  "domain": "cytology",
+  "id": 366
+ },
+ {
+  "chapter": 24,
+  "front": "Which markers distinguish mesothelioma from carcinoma?",
+  "back": "Mesothelial: calretinin, WT1, CK5/6, D2-40. Carcinoma: BerEP4, MOC31, CEA, claudin 4.",
+  "domain": "cytology",
+  "id": 367
+ },
+ {
+  "chapter": 24,
+  "front": "How fast must cerebrospinal fluid be processed?",
+  "back": "Within about an hour, because the cells lyse quickly.",
+  "domain": "cytology",
+  "id": 368
+ },
+ {
+  "chapter": 24,
+  "front": "What is the normal adult CSF cell count?",
+  "back": "0 to 5 mononuclear cells per microlitre.",
+  "domain": "cytology",
+  "id": 369
+ },
+ {
+  "chapter": 24,
+  "front": "How are crystals of gout and pseudogout told apart?",
+  "back": "Urate: needle-shaped and strongly negatively birefringent. Calcium pyrophosphate: rhomboid and weakly positively birefringent.",
+  "domain": "cytology",
+  "id": 370
+ },
+ {
+  "chapter": 24,
+  "front": "How should sputum be collected for cytology?",
+  "back": "Deep-cough early morning samples on three consecutive days, fixed in alcohol-based fixative such as Saccomanno.",
+  "domain": "cytology",
+  "id": 371
+ },
+ {
+  "chapter": 24,
+  "front": "What proves that a respiratory sample came from the deep lung?",
+  "back": "The presence of alveolar macrophages.",
+  "domain": "cytology",
+  "id": 372
+ },
+ {
+  "chapter": 24,
+  "front": "What are Curschmann spirals and Charcot-Leyden crystals?",
+  "back": "Spiral mucus casts and bipyramidal eosinophil-derived crystals, both seen in asthma.",
+  "domain": "cytology",
+  "id": 373
+ },
+ {
+  "chapter": 24,
+  "front": "What is the normal BAL differential in a non-smoker?",
+  "back": "Macrophages over 85 percent, lymphocytes 10 to 15 percent, neutrophils under 3 percent, eosinophils under 1 percent.",
+  "domain": "cytology",
+  "id": 374
+ },
+ {
+  "chapter": 24,
+  "front": "How is Pneumocystis jirovecii identified in lavage?",
+  "back": "Foamy honeycomb alveolar casts on Papanicolaou stain and cup-shaped cysts on Grocott methenamine silver.",
+  "domain": "cytology",
+  "id": 375
+ },
+ {
+  "chapter": 24,
+  "front": "What are the cytologic features of small cell lung carcinoma?",
+  "back": "Small cells with nuclear molding, scant cytoplasm, salt-and-pepper chromatin and crush artefact, positive for synaptophysin and CD56.",
+  "domain": "cytology",
+  "id": 376
+ },
+ {
+  "chapter": 25,
+  "front": "Which urothelial carcinoma does urine cytology detect best?",
+  "back": "High-grade urothelial carcinoma. It is insensitive for low-grade tumours.",
+  "domain": "cytology",
+  "id": 377
+ },
+ {
+  "chapter": 25,
+  "front": "Why avoid the first morning void for urine cytology?",
+  "back": "Cells sit in the bladder for hours and degenerate, making them hard to interpret.",
+  "domain": "cytology",
+  "id": 378
+ },
+ {
+  "chapter": 25,
+  "front": "What are polyomavirus decoy cells?",
+  "back": "Cells with an enlarged nucleus filled by a single smudged homogeneous inclusion with a smooth membrane, seen in immunosuppressed patients.",
+  "domain": "cytology",
+  "id": 379
+ },
+ {
+  "chapter": 25,
+  "front": "What are the Paris System categories?",
+  "back": "Nondiagnostic, NHGUC, AUC, SHGUC, HGUC, LGUN and other malignancies.",
+  "domain": "cytology",
+  "id": 380
+ },
+ {
+  "chapter": 25,
+  "front": "What nuclear-to-cytoplasmic ratio is required for HGUC?",
+  "back": "At least 0.7, with hyperchromasia, irregular membranes and coarse chromatin.",
+  "domain": "cytology",
+  "id": 381
+ },
+ {
+  "chapter": 25,
+  "front": "What are the five Yokohama breast categories?",
+  "back": "C1 insufficient, C2 benign, C3 atypical, C4 suspicious, C5 malignant.",
+  "domain": "cytology",
+  "id": 382
+ },
+ {
+  "chapter": 25,
+  "front": "What is the classic triad of fibroadenoma on aspirate?",
+  "back": "Staghorn ductal clusters, bare bipolar nuclei and fragments of magenta stroma.",
+  "domain": "cytology",
+  "id": 383
+ },
+ {
+  "chapter": 25,
+  "front": "Which feature strongly favours malignancy in a breast aspirate?",
+  "back": "Absence of bare bipolar myoepithelial nuclei, with discohesive pleomorphic cells.",
+  "domain": "cytology",
+  "id": 384
+ },
+ {
+  "chapter": 25,
+  "front": "How does the red blood cell help judge breast nuclei?",
+  "back": "Benign ductal nuclei are one to one and a half red cell diameters, malignant often over two to three.",
+  "domain": "cytology",
+  "id": 385
+ },
+ {
+  "chapter": 25,
+  "front": "Why is lobular carcinoma underdiagnosed on aspirates?",
+  "back": "Its small monomorphic discohesive cells with intracytoplasmic mucin look bland.",
+  "domain": "cytology",
+  "id": 386
+ },
+ {
+  "chapter": 25,
+  "front": "What are the six Bethesda thyroid categories?",
+  "back": "I nondiagnostic, II benign, III AUS/FLUS, IV follicular neoplasm, V suspicious for malignancy, VI malignant.",
+  "domain": "cytology",
+  "id": 387
+ },
+ {
+  "chapter": 25,
+  "front": "What is the adequacy criterion for a solid thyroid nodule?",
+  "back": "At least six groups of ten well-preserved follicular cells.",
+  "domain": "cytology",
+  "id": 388
+ },
+ {
+  "chapter": 25,
+  "front": "Which nuclear features define papillary thyroid carcinoma?",
+  "back": "Enlarged overlapping nuclei, powdery chromatin, grooves and intranuclear pseudo-inclusions.",
+  "domain": "cytology",
+  "id": 389
+ },
+ {
+  "chapter": 25,
+  "front": "Why can follicular adenoma not be separated from carcinoma on cytology?",
+  "back": "Malignancy depends on capsular or vascular invasion seen on histology.",
+  "domain": "cytology",
+  "id": 390
+ },
+ {
+  "chapter": 25,
+  "front": "How is medullary thyroid carcinoma identified?",
+  "back": "Plasmacytoid cells, salt-and-pepper chromatin, amyloid on Congo red and positive calcitonin.",
+  "domain": "cytology",
+  "id": 391
+ },
+ {
+  "chapter": 25,
+  "front": "What is the typical target for AUS in a thyroid laboratory?",
+  "back": "Below about 10 percent of all thyroid aspirates.",
+  "domain": "cytology",
+  "id": 392
+ },
+ {
+  "chapter": 26,
+  "front": "What is the difference between aspiration and capillary technique in FNA?",
+  "back": "Aspiration uses syringe suction, while the capillary technique uses the needle alone and often gives a less bloody sample.",
+  "domain": "cytology",
+  "id": 393
+ },
+ {
+  "chapter": 26,
+  "front": "What is ROSE?",
+  "back": "Rapid on-site evaluation, in which a quick Romanowsky stain assesses adequacy and triages material during the procedure.",
+  "domain": "cytology",
+  "id": 394
+ },
+ {
+  "chapter": 26,
+  "front": "What does a crushed FNA smear look like and what causes it?",
+  "back": "Streaked, threadlike nuclei caused by excess pressure from the spreader slide.",
+  "domain": "cytology",
+  "id": 395
+ },
+ {
+  "chapter": 26,
+  "front": "What features separate a reactive node from lymphoma?",
+  "back": "Reactive: polymorphous cells and tingible body macrophages. Lymphoma: monotonous atypical lymphoid population.",
+  "domain": "cytology",
+  "id": 396
+ },
+ {
+  "chapter": 26,
+  "front": "What is a Reed-Sternberg cell?",
+  "back": "A large binucleated or multilobated cell with prominent inclusion-like nucleoli, positive for CD15 and CD30 in classic Hodgkin lymphoma.",
+  "domain": "cytology",
+  "id": 397
+ },
+ {
+  "chapter": 26,
+  "front": "What kappa to lambda ratio suggests B cell clonality on flow cytometry?",
+  "back": "Above about 3 to 1 or below about 0.5 to 1, with laboratory-specific thresholds.",
+  "domain": "cytology",
+  "id": 398
+ },
+ {
+  "chapter": 26,
+  "front": "How should a sample for flow cytometry be collected?",
+  "back": "Fresh and unfixed in RPMI, delivered within about a day.",
+  "domain": "cytology",
+  "id": 399
+ },
+ {
+  "chapter": 26,
+  "front": "What does a cystic neck node with squamous cells in an adult suggest?",
+  "back": "Metastatic squamous carcinoma, often HPV-associated oropharyngeal cancer.",
+  "domain": "cytology",
+  "id": 400
+ },
+ {
+  "chapter": 26,
+  "front": "What is the aspirate of pleomorphic adenoma?",
+  "back": "Bland epithelial and myoepithelial cells in a fibrillar bright magenta chondromyxoid matrix.",
+  "domain": "cytology",
+  "id": 401
+ },
+ {
+  "chapter": 26,
+  "front": "What does Warthin tumour show?",
+  "back": "Oncocytes, a polymorphous lymphoid population and a dirty cystic proteinaceous background.",
+  "domain": "cytology",
+  "id": 402
+ },
+ {
+  "chapter": 26,
+  "front": "What is the hallmark of adenoid cystic carcinoma on aspirate?",
+  "back": "Basaloid cells around spherical hyaline globules, with MYB-NFIB fusion.",
+  "domain": "cytology",
+  "id": 403
+ },
+ {
+  "chapter": 26,
+  "front": "Which markers support Ewing sarcoma?",
+  "back": "Membranous CD99 with an EWSR1 rearrangement, in glycogen-rich uniform round cells.",
+  "domain": "cytology",
+  "id": 404
+ },
+ {
+  "chapter": 26,
+  "front": "What does an adequate EBUS lymph node sample contain?",
+  "back": "Lymphocytes. Their absence suggests the needle missed the node.",
+  "domain": "cytology",
+  "id": 405
+ },
+ {
+  "chapter": 26,
+  "front": "What does pancreatic ductal adenocarcinoma look like on aspirate?",
+  "back": "Disorganized sheets with a drunken honeycomb pattern, loss of polarity, nuclear size variation above four to one and irregular membranes.",
+  "domain": "cytology",
+  "id": 406
+ },
+ {
+  "chapter": 26,
+  "front": "What cyst fluid CEA level favours a mucinous pancreatic cyst?",
+  "back": "Above about 192 ng/mL.",
+  "domain": "cytology",
+  "id": 407
+ },
+ {
+  "chapter": 27,
+  "front": "What is a cell block and why is it valuable?",
+  "back": "Cells clotted or gelled, fixed and embedded like tissue so sections can be cut repeatedly for immunostains and molecular tests.",
+  "domain": "cytology",
+  "id": 408
+ },
+ {
+  "chapter": 27,
+  "front": "What fixative suits cell blocks used for immunostains and molecular tests?",
+  "back": "10 percent neutral buffered formalin, usually for 6 to 72 hours.",
+  "domain": "cytology",
+  "id": 409
+ },
+ {
+  "chapter": 27,
+  "front": "Why avoid acid decalcifiers on molecular material?",
+  "back": "They damage DNA.",
+  "domain": "cytology",
+  "id": 410
+ },
+ {
+  "chapter": 27,
+  "front": "Why does an immunostain run need a positive control?",
+  "back": "A negative patient result is meaningful only if the positive control stained.",
+  "domain": "cytology",
+  "id": 411
+ },
+ {
+  "chapter": 27,
+  "front": "How do you make 500 microlitres of a 1 in 100 antibody dilution?",
+  "back": "5 microlitres of antibody plus 495 microlitres of diluent.",
+  "domain": "cytology",
+  "id": 412
+ },
+ {
+  "chapter": 27,
+  "front": "What is antigen retrieval?",
+  "back": "Heating in a buffer to reverse formalin cross-linking and restore antigenicity.",
+  "domain": "cytology",
+  "id": 413
+ },
+ {
+  "chapter": 27,
+  "front": "Why validate antibodies for cytology specimens?",
+  "back": "Most are validated on formalin-fixed tissue, and alcohol-fixed smears may stain differently.",
+  "domain": "cytology",
+  "id": 414
+ },
+ {
+  "chapter": 27,
+  "front": "What variant allele fraction is expected for a heterozygous mutation in a block with 40 percent tumour?",
+  "back": "20 percent, which is half the tumour percentage.",
+  "domain": "cytology",
+  "id": 415
+ },
+ {
+  "chapter": 27,
+  "front": "Why is cross-contamination a molecular testing risk?",
+  "back": "A few carried-over cells can produce a false positive in a highly sensitive assay, so use fresh blades and a clean water bath.",
+  "domain": "cytology",
+  "id": 416
+ },
+ {
+  "chapter": 27,
+  "front": "What does PAS with diastase distinguish?",
+  "back": "Persisting staining after diastase indicates mucin or fungal walls, since glycogen is digested.",
+  "domain": "cytology",
+  "id": 417
+ },
+ {
+  "chapter": 27,
+  "front": "Which special stain shows the Cryptococcus capsule?",
+  "back": "Mucicarmine.",
+  "domain": "cytology",
+  "id": 418
+ },
+ {
+  "chapter": 27,
+  "front": "Which stain shows Pneumocystis and fungal walls?",
+  "back": "Grocott methenamine silver.",
+  "domain": "cytology",
+  "id": 419
+ },
+ {
+  "chapter": 27,
+  "front": "What is the false-negative proportion on rescreening?",
+  "back": "Missed abnormalities divided by slides rescreened. For 8 in 400 it is 2 percent.",
+  "domain": "cytology",
+  "id": 420
+ },
+ {
+  "chapter": 27,
+  "front": "What should be done for a new diagnosis of malignancy?",
+  "back": "Telephone the clinician directly, document the call and read-back, and issue the report.",
+  "domain": "cytology",
+  "id": 421
+ },
+ {
+  "chapter": 27,
+  "front": "How is a category's risk of malignancy audited?",
+  "back": "Malignant cases divided by cases with histologic follow-up, compared with published ranges.",
+  "domain": "cytology",
+  "id": 422
+ },
+ {
+  "chapter": 28,
+  "front": "Which anticoagulant is required for a cytogenetics blood specimen, and which is unacceptable?",
+  "back": "Sodium heparin is required. EDTA is unacceptable because it chelates calcium and magnesium and impairs lymphocyte division.",
+  "domain": "cytogenetics",
+  "id": 423
+ },
+ {
+  "chapter": 28,
+  "front": "Why should blood for chromosome analysis never be frozen?",
+  "back": "Freezing kills the lymphocytes that must later be stimulated to divide, so no metaphases can be obtained.",
+  "domain": "cytogenetics",
+  "id": 424
+ },
+ {
+  "chapter": 28,
+  "front": "What mitogen is used for a routine peripheral blood chromosome culture, and for how long?",
+  "back": "Phytohemagglutinin (PHA), which stimulates T cells, for about 72 hours.",
+  "domain": "cytogenetics",
+  "id": 425
+ },
+ {
+  "chapter": 28,
+  "front": "Why are bone marrow cultures usually set up without a mitogen?",
+  "back": "Marrow cells are already dividing, and a T-cell mitogen would expand normal lymphocytes and dilute the abnormal myeloid clone.",
+  "domain": "cytogenetics",
+  "id": 426
+ },
+ {
+  "chapter": 28,
+  "front": "What stimulation is used to culture chronic lymphocytic leukemia cells?",
+  "back": "A B-cell mitogen such as CpG oligonucleotide with interleukin 2, because the malignant B cells divide poorly with PHA.",
+  "domain": "cytogenetics",
+  "id": 427
+ },
+ {
+  "chapter": 28,
+  "front": "What is the action of colcemid in the harvest?",
+  "back": "Colcemid binds tubulin and blocks spindle formation, arresting cells in metaphase.",
+  "domain": "cytogenetics",
+  "id": 428
+ },
+ {
+  "chapter": 28,
+  "front": "Calculate the volume of 10 micrograms per mL colcemid stock needed for 0.1 micrograms per mL in 10 mL of culture.",
+  "back": "Using C1V1 = C2V2, V1 = (0.1 x 10) / 10 = 0.1 mL of stock.",
+  "domain": "cytogenetics",
+  "id": 429
+ },
+ {
+  "chapter": 28,
+  "front": "What hypotonic solution is used in chromosome harvest and why?",
+  "back": "Warm 0.075 M potassium chloride swells the cells so the chromosomes spread apart when the cells burst on the slide.",
+  "domain": "cytogenetics",
+  "id": 430
+ },
+ {
+  "chapter": 28,
+  "front": "What is Carnoy fixative?",
+  "back": "Three parts methanol to one part glacial acetic acid, made fresh, which dehydrates and stabilizes the cells and chromosomes.",
+  "domain": "cytogenetics",
+  "id": 431
+ },
+ {
+  "chapter": 28,
+  "front": "How is the mitotic index calculated?",
+  "back": "Cells in mitosis divided by total cells scored, multiplied by 100.",
+  "domain": "cytogenetics",
+  "id": 432
+ },
+ {
+  "chapter": 28,
+  "front": "What is the difference between chromosome bands seen with GTG and with R-banding?",
+  "back": "GTG (trypsin and Giemsa) gives dark AT-rich bands, while R-banding gives the reverse pattern and highlights chromosome ends.",
+  "domain": "cytogenetics",
+  "id": 433
+ },
+ {
+  "chapter": 28,
+  "front": "What routine band resolution is used for blood, and what is high resolution?",
+  "back": "Routine analysis is 400 to 550 bands per haploid set, and high-resolution studies are 650 to 850 bands.",
+  "domain": "cytogenetics",
+  "id": 434
+ },
+ {
+  "chapter": 28,
+  "front": "When is amniocentesis usually performed, and how many independent cultures are set up?",
+  "back": "Usually between 15 and 20 weeks of gestation, with at least two independent cultures.",
+  "domain": "cytogenetics",
+  "id": 435
+ },
+ {
+  "chapter": 28,
+  "front": "What is the main pitfall in chorionic villus sampling culture?",
+  "back": "Maternal decidua contamination, which is why villi are dissected under a microscope before culture.",
+  "domain": "cytogenetics",
+  "id": 436
+ },
+ {
+  "chapter": 28,
+  "front": "How are Level I, II and III pseudomosaicism defined in prenatal culture?",
+  "back": "Level I is a single abnormal cell, Level II is multiple cells in one culture, and Level III is the same abnormality in multiple independent cultures, suggesting true mosaicism.",
+  "domain": "cytogenetics",
+  "id": 437
+ },
+ {
+  "chapter": 28,
+  "front": "Why is a fixed cell pellet kept after a failed culture?",
+  "back": "It can be used for FISH or molecular testing that does not need dividing cells and for repeat slides.",
+  "domain": "cytogenetics",
+  "id": 438
+ },
+ {
+  "chapter": 29,
+  "front": "How many chromosomes are in the normal human karyotype, and how are they grouped?",
+  "back": "There are 46, arranged in groups A to G by size and centromere position.",
+  "domain": "cytogenetics",
+  "id": 439
+ },
+ {
+  "chapter": 29,
+  "front": "Which chromosomes are acrocentric?",
+  "back": "Chromosomes 13, 14, 15, 21 and 22, which have satellites on their short arms and take part in Robertsonian translocations.",
+  "domain": "cytogenetics",
+  "id": 440
+ },
+ {
+  "chapter": 29,
+  "front": "What do the letters p and q mean in chromosome nomenclature?",
+  "back": "The p arm is the short arm and the q arm is the long arm.",
+  "domain": "cytogenetics",
+  "id": 441
+ },
+ {
+  "chapter": 29,
+  "front": "How many cells are normally counted and analyzed in a constitutional blood study?",
+  "back": "Twenty cells are counted, at least 5 are analyzed band by band, and at least 2 are karyotyped.",
+  "domain": "cytogenetics",
+  "id": 442
+ },
+ {
+  "chapter": 29,
+  "front": "How many normal cells are needed to exclude a 10 percent mosaic with about 95 percent confidence?",
+  "back": "About 30 cells, since 0.9 to the power of 30 is about 0.04.",
+  "domain": "cytogenetics",
+  "id": 443
+ },
+ {
+  "chapter": 29,
+  "front": "What defines a clone in a cancer karyotype?",
+  "back": "The same gain or structural change in at least two cells, or the same chromosome loss in at least three cells.",
+  "domain": "cytogenetics",
+  "id": 444
+ },
+ {
+  "chapter": 29,
+  "front": "What does the ISCN notation 46,XY,t(9;22)(q34;q11.2) mean?",
+  "back": "A male with 46 chromosomes and a reciprocal translocation between the long arms of chromosomes 9 and 22, the Philadelphia chromosome.",
+  "domain": "cytogenetics",
+  "id": 445
+ },
+ {
+  "chapter": 29,
+  "front": "How are mosaic cell lines written in ISCN?",
+  "back": "Separated by a slash with cell counts in brackets, abnormal lines first and the normal line last, as in 45,X[3]/46,XY[21].",
+  "domain": "cytogenetics",
+  "id": 446
+ },
+ {
+  "chapter": 29,
+  "front": "What is the usual mechanism of trisomy 21 and its main risk factor?",
+  "back": "Nondisjunction in maternal meiosis I, and the risk increases with maternal age.",
+  "domain": "cytogenetics",
+  "id": 447
+ },
+ {
+  "chapter": 29,
+  "front": "What proportion of Down syndrome is due to free trisomy 21, translocation and mosaicism?",
+  "back": "About 95 percent free trisomy, 3 to 4 percent translocation and 1 to 2 percent mosaicism.",
+  "domain": "cytogenetics",
+  "id": 448
+ },
+ {
+  "chapter": 29,
+  "front": "What karyotype is found in Turner syndrome and in Klinefelter syndrome?",
+  "back": "Turner syndrome is 45,X and Klinefelter syndrome is 47,XXY.",
+  "domain": "cytogenetics",
+  "id": 449
+ },
+ {
+  "chapter": 29,
+  "front": "What is a Robertsonian translocation carrier karyotype for a 14;21 fusion in a female?",
+  "back": "45,XX,der(14;21)(q10;q10), a healthy balanced carrier with a risk of translocation Down syndrome.",
+  "domain": "cytogenetics",
+  "id": 450
+ },
+ {
+  "chapter": 29,
+  "front": "What is the difference between a pericentric and a paracentric inversion?",
+  "back": "A pericentric inversion includes the centromere with breaks in both arms, and a paracentric inversion lies within one arm.",
+  "domain": "cytogenetics",
+  "id": 451
+ },
+ {
+  "chapter": 29,
+  "front": "Which translocation defines acute promyelocytic leukemia, and how is the result handled?",
+  "back": "t(15;17)(q24;q21) creating PML::RARA, and it is a critical result telephoned at once because of the bleeding risk.",
+  "domain": "cytogenetics",
+  "id": 452
+ },
+ {
+  "chapter": 29,
+  "front": "Which chromosome change is the hallmark of chronic myeloid leukemia?",
+  "back": "The Philadelphia chromosome t(9;22)(q34;q11.2), creating the BCR::ABL1 fusion.",
+  "domain": "cytogenetics",
+  "id": 453
+ },
+ {
+  "chapter": 29,
+  "front": "What is the resolution limit of a routine karyotype?",
+  "back": "About 5 to 10 megabases, so microdeletions and cryptic rearrangements are missed.",
+  "domain": "cytogenetics",
+  "id": 454
+ },
+ {
+  "chapter": 30,
+  "front": "How does FISH work?",
+  "back": "A fluorescently labelled DNA probe anneals to its complementary target after denaturation, showing the location and copy number of that sequence.",
+  "domain": "cytogenetics",
+  "id": 455
+ },
+ {
+  "chapter": 30,
+  "front": "What are the main steps of a FISH assay?",
+  "back": "Slide pretreatment, co-denaturation of probe and target, overnight hybridization at 37 degrees Celsius, stringency washes, DAPI counterstain and microscopy.",
+  "domain": "cytogenetics",
+  "id": 456
+ },
+ {
+  "chapter": 30,
+  "front": "What is the effect of a wash that is too cool or too salty?",
+  "back": "Weakly bound and unbound probe remains, causing high background or haze.",
+  "domain": "cytogenetics",
+  "id": 457
+ },
+ {
+  "chapter": 30,
+  "front": "What is a centromeric probe used for?",
+  "back": "Counting copies of a specific chromosome, for example in rapid prenatal aneuploidy testing.",
+  "domain": "cytogenetics",
+  "id": 458
+ },
+ {
+  "chapter": 30,
+  "front": "What signal pattern does a dual-colour dual-fusion BCR::ABL1 probe show in a positive nucleus?",
+  "back": "One red, one green and two fusion signals, written 1R1G2F.",
+  "domain": "cytogenetics",
+  "id": 459
+ },
+ {
+  "chapter": 30,
+  "front": "How does a break-apart probe show a rearrangement?",
+  "back": "A normal nucleus has fused signals, and a rearrangement separates one fused signal into a distinct red and green signal.",
+  "domain": "cytogenetics",
+  "id": 460
+ },
+ {
+  "chapter": 30,
+  "front": "What is a whole-chromosome paint used for?",
+  "back": "Identifying the origin of marker chromosomes and the material in complex rearrangements on metaphase spreads.",
+  "domain": "cytogenetics",
+  "id": 461
+ },
+ {
+  "chapter": 30,
+  "front": "How is a FISH cutoff usually set?",
+  "back": "By scoring normal specimens and using the mean plus three standard deviations, validated for each probe and tissue type.",
+  "domain": "cytogenetics",
+  "id": 462
+ },
+ {
+  "chapter": 30,
+  "front": "Why can FFPE sections produce false loss of FISH signals?",
+  "back": "Nuclei are cut through during sectioning, or over-digested, so signals are lost without a true deletion.",
+  "domain": "cytogenetics",
+  "id": 463
+ },
+ {
+  "chapter": 30,
+  "front": "What is HER2 FISH used for in breast cancer?",
+  "back": "It measures HER2 gene amplification using the ratio to the chromosome 17 centromere, to decide eligibility for HER2-targeted therapy.",
+  "domain": "cytogenetics",
+  "id": 464
+ },
+ {
+  "chapter": 30,
+  "front": "How does an array CGH detect a heterozygous deletion?",
+  "back": "The patient to reference signal ratio is about 0.5, a log2 ratio of minus 1.0 across the probes in the region.",
+  "domain": "cytogenetics",
+  "id": 465
+ },
+ {
+  "chapter": 30,
+  "front": "What log2 ratio is expected for a heterozygous duplication?",
+  "back": "About plus 0.58, from three copies compared with two.",
+  "domain": "cytogenetics",
+  "id": 466
+ },
+ {
+  "chapter": 30,
+  "front": "What extra information does a SNP array give compared with array CGH?",
+  "back": "Genotypes at each SNP, which reveal regions of homozygosity such as uniparental disomy and also detect triploidy.",
+  "domain": "cytogenetics",
+  "id": 467
+ },
+ {
+  "chapter": 30,
+  "front": "What can a microarray not detect?",
+  "back": "Balanced rearrangements such as translocations and inversions, and low-level mosaicism below about 20 to 30 percent.",
+  "domain": "cytogenetics",
+  "id": 468
+ },
+ {
+  "chapter": 30,
+  "front": "What are the five tiers used to classify a copy number variant?",
+  "back": "Pathogenic, likely pathogenic, variant of uncertain significance, likely benign and benign.",
+  "domain": "cytogenetics",
+  "id": 469
+ },
+ {
+  "chapter": 30,
+  "front": "How are donor and recipient cells distinguished by FISH after a sex-mismatched transplant?",
+  "back": "X and Y centromere probes, so XY nuclei are recipient cells in a female donor to male recipient pair.",
+  "domain": "cytogenetics",
+  "id": 470
+ },
+ {
+  "chapter": 31,
+  "front": "Why does a molecular laboratory use a unidirectional workflow?",
+  "back": "To prevent amplified product from contaminating reagents and new reactions, moving only from clean to dirty areas.",
+  "domain": "molecular_diagnostics",
+  "id": 471
+ },
+ {
+  "chapter": 31,
+  "front": "What anticoagulant should be avoided for blood used in PCR?",
+  "back": "Heparin, because it inhibits the DNA polymerase.",
+  "domain": "molecular_diagnostics",
+  "id": 472
+ },
+ {
+  "chapter": 31,
+  "front": "What are the four steps of nucleic acid extraction?",
+  "back": "Lysis, binding to a solid phase, washing and elution.",
+  "domain": "molecular_diagnostics",
+  "id": 473
+ },
+ {
+  "chapter": 31,
+  "front": "What does a low A260 to A230 ratio suggest?",
+  "back": "Contamination with salts, guanidine, phenol or carbohydrate, which can inhibit PCR.",
+  "domain": "molecular_diagnostics",
+  "id": 474
+ },
+ {
+  "chapter": 31,
+  "front": "What are the expected A260 to A280 ratios for pure DNA and pure RNA?",
+  "back": "About 1.8 for DNA and about 2.0 for RNA.",
+  "domain": "molecular_diagnostics",
+  "id": 475
+ },
+ {
+  "chapter": 31,
+  "front": "Calculate the DNA concentration if A260 is 0.25 at a 1 in 50 dilution.",
+  "back": "0.25 x 50 micrograms per mL x 50 equals 625 micrograms per mL.",
+  "domain": "molecular_diagnostics",
+  "id": 476
+ },
+ {
+  "chapter": 31,
+  "front": "What are the three temperature steps of a PCR cycle?",
+  "back": "Denaturation near 95 degrees Celsius, annealing at 50 to 65 degrees Celsius and extension near 72 degrees Celsius.",
+  "domain": "molecular_diagnostics",
+  "id": 477
+ },
+ {
+  "chapter": 31,
+  "front": "Why is the 3-prime end of a primer especially important?",
+  "back": "Extension begins there, so a 3-prime mismatch can block amplification, which is the basis of allele-specific PCR.",
+  "domain": "molecular_diagnostics",
+  "id": 478
+ },
+ {
+  "chapter": 31,
+  "front": "What is the advantage of a hot-start polymerase?",
+  "back": "It is inactive until the first heating step, which reduces nonspecific products and primer dimers formed during set-up.",
+  "domain": "molecular_diagnostics",
+  "id": 479
+ },
+ {
+  "chapter": 31,
+  "front": "What does a lower cycle threshold (Ct) mean?",
+  "back": "More starting template, because fluorescence crossed the threshold earlier.",
+  "domain": "molecular_diagnostics",
+  "id": 480
+ },
+ {
+  "chapter": 31,
+  "front": "What standard curve slope corresponds to 100 percent PCR efficiency?",
+  "back": "A slope of minus 3.32.",
+  "domain": "molecular_diagnostics",
+  "id": 481
+ },
+ {
+  "chapter": 31,
+  "front": "How is fold change calculated by the delta delta Ct method?",
+  "back": "Fold change equals 2 to the power of minus delta delta Ct, assuming similar and near-perfect efficiency of target and reference.",
+  "domain": "molecular_diagnostics",
+  "id": 482
+ },
+ {
+  "chapter": 31,
+  "front": "What is the purpose of the no-template control?",
+  "back": "To detect contamination of reagents or the environment, and a positive result invalidates the run.",
+  "domain": "molecular_diagnostics",
+  "id": 483
+ },
+ {
+  "chapter": 31,
+  "front": "How do dUTP and uracil-N-glycosylase reduce carry-over contamination?",
+  "back": "Products from earlier runs contain uracil and are destroyed by the enzyme before amplification begins, while native DNA is unaffected.",
+  "domain": "molecular_diagnostics",
+  "id": 484
+ },
+ {
+  "chapter": 31,
+  "front": "What does a failed internal control in a negative sample mean?",
+  "back": "The reaction may be inhibited or the extraction failed, so the result is invalid and not a true negative.",
+  "domain": "molecular_diagnostics",
+  "id": 485
+ },
+ {
+  "chapter": 32,
+  "front": "How does Sanger sequencing identify bases?",
+  "back": "Fluorescent dideoxynucleotides terminate chain extension at each position, and capillary electrophoresis reads the dye colour of fragments of increasing length.",
+  "domain": "molecular_diagnostics",
+  "id": 486
+ },
+ {
+  "chapter": 32,
+  "front": "What is the detection limit of Sanger sequencing for a variant?",
+  "back": "About 15 to 20 percent of alleles.",
+  "domain": "molecular_diagnostics",
+  "id": 487
+ },
+ {
+  "chapter": 32,
+  "front": "What does a heterozygous indel look like on a Sanger trace?",
+  "back": "A clean sequence followed by overlapping double peaks after the variant.",
+  "domain": "molecular_diagnostics",
+  "id": 488
+ },
+ {
+  "chapter": 32,
+  "front": "What are the main steps of NGS library preparation?",
+  "back": "Fragmentation, adapter and barcode ligation, target enrichment by hybrid capture or amplicon PCR, quantification and pooling.",
+  "domain": "molecular_diagnostics",
+  "id": 489
+ },
+ {
+  "chapter": 32,
+  "front": "What does a Q30 score mean?",
+  "back": "An error rate of 1 in 1,000 for a base call, or 99.9 percent accuracy.",
+  "domain": "molecular_diagnostics",
+  "id": 490
+ },
+ {
+  "chapter": 32,
+  "front": "Define variant allele fraction and calculate it for 180 variant reads in 900 total reads.",
+  "back": "VAF is variant reads divided by total depth, so 180 divided by 900 is 20 percent.",
+  "domain": "molecular_diagnostics",
+  "id": 491
+ },
+ {
+  "chapter": 32,
+  "front": "What VAF is expected for a heterozygous germline variant?",
+  "back": "About 50 percent.",
+  "domain": "molecular_diagnostics",
+  "id": 492
+ },
+ {
+  "chapter": 32,
+  "front": "What VAF is expected for a heterozygous truncal somatic mutation in a tumour that is 40 percent pure?",
+  "back": "About 20 percent, which is half of the tumour purity.",
+  "domain": "molecular_diagnostics",
+  "id": 493
+ },
+ {
+  "chapter": 32,
+  "front": "Why do FFPE samples produce false C to T variants?",
+  "back": "Formalin fixation causes cytosine deamination to uracil, read as thymine, giving low-level artefacts.",
+  "domain": "molecular_diagnostics",
+  "id": 494
+ },
+ {
+  "chapter": 32,
+  "front": "What does the HGVS notation c.1799T>A p.(Val600Glu) mean?",
+  "back": "A substitution of thymine by adenine at coding position 1799, changing valine to glutamic acid at residue 600 of the protein.",
+  "domain": "molecular_diagnostics",
+  "id": 495
+ },
+ {
+  "chapter": 32,
+  "front": "What are the five ACMG/AMP germline variant classes?",
+  "back": "Pathogenic, likely pathogenic, variant of uncertain significance, likely benign and benign.",
+  "domain": "molecular_diagnostics",
+  "id": 496
+ },
+ {
+  "chapter": 32,
+  "front": "How should a variant of uncertain significance be handled in management?",
+  "back": "It is not a diagnosis and should not change management, and it may be reclassified as evidence accumulates.",
+  "domain": "molecular_diagnostics",
+  "id": 497
+ },
+ {
+  "chapter": 32,
+  "front": "What do tier I somatic variants represent?",
+  "back": "Variants with strong clinical significance, such as an approved therapy or guideline in that tumour type.",
+  "domain": "molecular_diagnostics",
+  "id": 498
+ },
+ {
+  "chapter": 32,
+  "front": "What must a negative NGS result state about coverage?",
+  "back": "It applies only to regions covered above the minimum depth, and inadequately covered regions must be listed.",
+  "domain": "molecular_diagnostics",
+  "id": 499
+ },
+ {
+  "chapter": 32,
+  "front": "What should be done when a new reagent lot is introduced into an NGS assay?",
+  "back": "Verify it with reference material of known variants and compare performance with the previous lot before patient use.",
+  "domain": "molecular_diagnostics",
+  "id": 500
+ }
+]
